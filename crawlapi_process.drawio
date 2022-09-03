@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T05:53:09.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="TCiyxesJujkcSaEUK6SU" type="github"><diagram id="1_-alb8toaIMvLjbownN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-03T13:34:06.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="IyUuZ4c49TPBdNFR5id-" version="20.2.8" type="github">
+  <diagram id="1_-alb8toaIMvLjbownN" name="페이지-1">
+    <mxGraphModel dx="1209" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2iBoVmo5hvPld190jIw-2" value="1. 수집요청" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s2iBoVmo5hvPld190jIw-3" value="2. 요청&amp;nbsp; 파싱&lt;br&gt;&lt;br&gt;site&lt;br&gt;url&lt;br&gt;accesstoken&lt;br&gt;userid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s2iBoVmo5hvPld190jIw-5" value="3. Q에 입력&lt;br&gt;&lt;br&gt;A, URL 리스트&lt;br&gt;(userid - site - url)&lt;br&gt;&lt;br&gt;B. UserId 리스트&lt;br&gt;(userid - site)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s2iBoVmo5hvPld190jIw-6" value="4. Timer 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s2iBoVmo5hvPld190jIw-7" value="A. URL 리스트" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2iBoVmo5hvPld190jIw-8" value="B. UserId 리스트" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
