@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T10:55:28.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZEZeveo8TAlwpJ-FBwfJ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T13:17:37.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Cx8DGI2oTKgBO_zTk_w1" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-41" value="유저" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-42" value="유저ID(PK)&lt;br&gt;--------------&lt;br style=&quot;font-size: 17px;&quot;&gt;닉네임&lt;br style=&quot;font-size: 17px;&quot;&gt;썸네일" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="icVDSUs0Ne6PfwWQ9WC2-41">
+          <mxGeometry y="26" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-45" value="운영자" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-46" value="운영자ID(PK)&lt;br&gt;--------------&lt;br&gt;계정" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="icVDSUs0Ne6PfwWQ9WC2-45">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-47" value="디스크립션_히스토리" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-48" value="ID(PK)&lt;br&gt;--------------&lt;br&gt;디스크립션ID(FK)&lt;br&gt;운영자ID(FK)&lt;br&gt;편집시간&lt;br&gt;버전&lt;br&gt;글자수변화&lt;br&gt;내용" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="icVDSUs0Ne6PfwWQ9WC2-47">
+          <mxGeometry y="26" width="160" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-49" value="댓글" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-50" value="ID(PK)&lt;br&gt;유저ID(FK)&lt;br&gt;디스크립션iD(FK)&lt;br&gt;----------------&lt;br&gt;부모댓글ID&lt;br&gt;노출여부&lt;br&gt;최상단여부&lt;br&gt;편집시간&lt;br&gt;내용" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="icVDSUs0Ne6PfwWQ9WC2-49">
+          <mxGeometry y="26" width="160" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-51" value="댓글반응" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="icVDSUs0Ne6PfwWQ9WC2-52" value="댓글ID(PK,FK)&lt;br&gt;------------&lt;br&gt;유용해요&lt;br&gt;좋아요&lt;br&gt;신고" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="icVDSUs0Ne6PfwWQ9WC2-51">
+          <mxGeometry y="26" width="160" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
