@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T05:35:52.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QOf1oezkRXpZr6nSvbDe" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T05:36:04.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JJaNVdzmwsbBbOEu8y6L" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="2541" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5794" dy="4847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,12 +165,6 @@
         </mxCell>
         <mxCell id="7fgGwh9zjxChW4Q7IRE5-14" value="키워드ID(PK)&lt;br&gt;--------------&lt;br&gt;키워드(디자인, 스토리,..)&lt;br&gt;상태(신규,수정,중지,삭제)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="7fgGwh9zjxChW4Q7IRE5-13">
           <mxGeometry y="26" width="240" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="7fgGwh9zjxChW4Q7IRE5-15" value="키워드_평가_코드" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1560" width="280" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="7fgGwh9zjxChW4Q7IRE5-16" value="히스토리ID(PK)&lt;br&gt;게임ID or 디스크립션ID(FK)&lt;br&gt;--------------&lt;br&gt;운영자ID(FK)&lt;br&gt;버전?&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;글자수변화&lt;br&gt;편집시간&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;내용" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="7fgGwh9zjxChW4Q7IRE5-15">
-          <mxGeometry y="26" width="280" height="194" as="geometry" />
         </mxCell>
         <mxCell id="7fgGwh9zjxChW4Q7IRE5-17" value="키워드_평가_코드" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="1320" width="200" height="140" as="geometry" />
