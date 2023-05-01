@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T14:23:36.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eCoP8nT7eJGSSWV2nTDQ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T14:30:09.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WwuuqZ9oL2shlExnJUG0" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="3398" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,6 +471,12 @@
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-67" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;키워드 평가&lt;br&gt;mongodb&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-760" y="5220" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-68" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;id: keyword:게임Id:키워드Id&lt;br&gt;&lt;br&gt;userId: {1, 2,..}&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="5350" width="303" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-69" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;id: keyword:게임Id&lt;br&gt;&lt;br&gt;keywordA: 11&lt;br&gt;keywordB: 55&lt;br&gt;keywordC: 66&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="5540" width="305" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
