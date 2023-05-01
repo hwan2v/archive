@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T14:30:55.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rKBIlrvKzD_OXThiGA7Y" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T14:32:08.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AEBI9JmlyD2DG1up7FCo" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="3398" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,35 +487,17 @@
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-73" value="유저ID(PK)&lt;br&gt;--------------&lt;br style=&quot;font-size: 17px;&quot;&gt;닉네임&lt;br style=&quot;font-size: 17px;&quot;&gt;썸네일&lt;br&gt;리뷰개수&lt;br&gt;별점평균" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-72">
           <mxGeometry y="26" width="200" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-74" value="리뷰반응" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1317" y="6506" width="200" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-75" value="리뷰반응ID(PK)&lt;br&gt;--------------&lt;br&gt;리뷰ID(FK)&lt;br&gt;유저ID(FK)&lt;br&gt;반응(유용, 재미, 좋아, 신고)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-74">
-          <mxGeometry y="26" width="200" height="154" as="geometry" />
-        </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-76" value="리뷰" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1317" y="6166" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-77" value="리뷰ID(PK)&lt;br&gt;게임ID(FK)&lt;br&gt;--------------&lt;br&gt;유저ID(FK)&lt;br&gt;키워드평가ID&lt;br&gt;평점&lt;br&gt;편집시간&lt;br&gt;내용&lt;br&gt;상태&lt;br&gt;가중치&lt;br&gt;제목?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-76">
           <mxGeometry y="26" width="200" height="254" as="geometry" />
         </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-78" value="댓글반응" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1017" y="6506" width="200" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-79" value="댓글반응ID(PK)&lt;br&gt;--------------&lt;br&gt;댓글ID(FK)&lt;br&gt;유저ID(FK)&lt;br&gt;반응(유용,재미,좋아,신고)&lt;br&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-78">
-          <mxGeometry y="26" width="200" height="164" as="geometry" />
-        </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-80" value="댓글" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1017" y="6186" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-81" value="댓글ID(PK)&lt;br&gt;--------------&lt;br&gt;리뷰ID(FK)&lt;br&gt;유저ID(FK)&lt;br&gt;편집시간&lt;br&gt;내용&lt;br&gt;상태" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-80">
           <mxGeometry y="26" width="200" height="214" as="geometry" />
-        </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-82" value="대댓글반응" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-717" y="6506" width="200" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-83" value="대댓글반응ID(PK)&lt;br&gt;-------------&lt;br&gt;대댓글ID(FK)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;유저ID(FK)&lt;br&gt;반응(좋아)&lt;br&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="SMXQUqvuMXe1wt_ZHBkn-82">
-          <mxGeometry y="26" width="200" height="144" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-84" value="대댓글" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-717" y="6186" width="200" height="240" as="geometry" />
@@ -541,23 +523,44 @@
             <mxPoint x="-1007" y="6329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-89" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-77" target="SMXQUqvuMXe1wt_ZHBkn-74">
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-89" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-77">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1217" y="6430" as="sourcePoint" />
-            <mxPoint x="-1217" y="6480" as="targetPoint" />
+            <mxPoint x="-1217" y="6506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-90" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.503;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-81" target="SMXQUqvuMXe1wt_ZHBkn-78">
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-90" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.503;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-81">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1207" y="6436" as="sourcePoint" />
-            <mxPoint x="-1207" y="6516" as="targetPoint" />
+            <mxPoint x="-917" y="6506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-91" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-85" target="SMXQUqvuMXe1wt_ZHBkn-82">
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-91" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SMXQUqvuMXe1wt_ZHBkn-85">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-906" y="6436" as="sourcePoint" />
-            <mxPoint x="-907" y="6516" as="targetPoint" />
+            <mxPoint x="-617" y="6506" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-92" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;리뷰/댓글반응&lt;br&gt;redis&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="6540" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-93" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;리뷰/댓글반응&lt;br&gt;mongodb&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="6540" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-94" value="write" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6891769607345768;arrowSize=0.17510835721895265;" vertex="1" parent="1">
+          <mxGeometry x="-1075" y="6550" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-95" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key: review:like:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="6670" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-96" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key: review:benefit:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="6800" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-97" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key: review:report:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="6930" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-98" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;id: review:like:댓글Id&lt;br&gt;userId: {1, 2,..}&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="6670" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
