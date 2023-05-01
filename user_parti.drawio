@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T14:32:08.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AEBI9JmlyD2DG1up7FCo" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T14:33:11.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_E8egOaM4SOUOvlax2KO" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="3398" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,16 +371,16 @@
           <mxGeometry x="-810" y="3530" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-27" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key:&amp;nbsp;comment:like:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1095" y="3650" width="280" height="110" as="geometry" />
+          <mxGeometry x="-1095" y="3670" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-28" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key:&amp;nbsp;comment:benefit:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1095" y="3780" width="280" height="110" as="geometry" />
+          <mxGeometry x="-1095" y="3800" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-29" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key:&amp;nbsp;comment:report:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1095" y="3910" width="280" height="110" as="geometry" />
+          <mxGeometry x="-1095" y="3930" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-30" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;id: comment:like:댓글Id&lt;br&gt;userId: {1, 2,..}&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="3650" width="280" height="110" as="geometry" />
+          <mxGeometry x="-395" y="3670" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-31" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;유저참여 - 평점/키워드평가(v2)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="4260" width="510" height="90" as="geometry" />
@@ -561,6 +561,9 @@
         </mxCell>
         <mxCell id="SMXQUqvuMXe1wt_ZHBkn-98" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;id: review:like:댓글Id&lt;br&gt;userId: {1, 2,..}&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-675" y="6670" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SMXQUqvuMXe1wt_ZHBkn-99" value="write through" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6891769607345768;arrowSize=0.17510835721895265;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="3600" width="440" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
