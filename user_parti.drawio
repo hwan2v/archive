@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T15:33:21.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9fjoDegVEsG_GYwx2R8N" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T16:26:22.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dg5jcP6HRqubengMt7Zk" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="2875" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3702" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,64 +574,163 @@
         <mxCell id="fb_r_ken2WNW29x0_yOV-1" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;스토브 로그인 과정&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1202.5" y="7070" width="510" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fb_r_ken2WNW29x0_yOV-2" value="front" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="fb_r_ken2WNW29x0_yOV-2" value="gdb&lt;br&gt;frontend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="7220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-3" value="router&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="7220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-4" value="authorization&lt;br&gt;server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="7220" width="140" height="60" as="geometry" />
+          <mxGeometry x="-810" y="7220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-5" value="resource server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-687" y="7220" width="140" height="60" as="geometry" />
+          <mxGeometry x="-620" y="7220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fb_r_ken2WNW29x0_yOV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1450" y="7620" as="sourcePoint" />
+            <mxPoint x="-1450" y="8100" as="sourcePoint" />
             <mxPoint x="-1440" y="7390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1210.5" y="7620" as="sourcePoint" />
+            <mxPoint x="-1210" y="8090" as="sourcePoint" />
             <mxPoint x="-1210.5" y="7280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-860" y="7620" as="sourcePoint" />
-            <mxPoint x="-860" y="7280" as="targetPoint" />
+            <mxPoint x="-740" y="8090" as="sourcePoint" />
+            <mxPoint x="-740" y="7280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-617.5" y="7620" as="sourcePoint" />
-            <mxPoint x="-617.5" y="7280" as="targetPoint" />
+            <mxPoint x="-553" y="8090" as="sourcePoint" />
+            <mxPoint x="-550.5" y="7280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fb_r_ken2WNW29x0_yOV-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.471;entryY=1.111;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" target="fb_r_ken2WNW29x0_yOV-1">
+        <mxCell id="fb_r_ken2WNW29x0_yOV-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-962" y="7730" as="sourcePoint" />
-            <mxPoint x="-950" y="7420" as="targetPoint" />
+            <mxPoint x="-830" y="8090" as="sourcePoint" />
+            <mxPoint x="-830" y="7170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1450" y="7400" as="sourcePoint" />
-            <mxPoint x="-1210" y="7400" as="targetPoint" />
+            <mxPoint x="-1670" y="7350" as="sourcePoint" />
+            <mxPoint x="-1450" y="7350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fb_r_ken2WNW29x0_yOV-12" value="1. login&amp;nbsp;&lt;br&gt;http://member&lt;br&gt;caller=gdb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1438.75" y="7310" width="193.75" height="90" as="geometry" />
+        <mxCell id="fb_r_ken2WNW29x0_yOV-12" value="1. login 버튼 클릭" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="7280" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-14" value="server&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="7220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1050.5" y="7620" as="sourcePoint" />
+            <mxPoint x="-1050" y="8080" as="sourcePoint" />
             <mxPoint x="-1050.5" y="7280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="7520" as="sourcePoint" />
+            <mxPoint x="-1670" y="7520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-18" value="3. stove login 페이지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1035" y="7460" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-19" value="user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="7220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1670" y="8110" as="sourcePoint" />
+            <mxPoint x="-1670.5" y="7280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-21" value="2. login&amp;nbsp;&lt;br&gt;http://member&lt;br&gt;caller=gdb&lt;br&gt;redirect_url=/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="7350" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1450" y="7450" as="sourcePoint" />
+            <mxPoint x="-740" y="7450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1670" y="7610" as="sourcePoint" />
+            <mxPoint x="-740" y="7610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-24" value="4. ID/password 입력" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="7540" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="7690" as="sourcePoint" />
+            <mxPoint x="-1210" y="7690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-26" value="5. access&amp;amp;refresh token 리턴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1035" y="7620" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-27" value="6. 약관 페이지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1443.75" y="7820" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1210" y="7890" as="sourcePoint" />
+            <mxPoint x="-1670" y="7890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1670" y="7960" as="sourcePoint" />
+            <mxPoint x="-1210" y="7960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-33" value="7. 약관 동의" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="7890" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-34" value="gdb&lt;br&gt;backend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="7220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-363" y="8090" as="sourcePoint" />
+            <mxPoint x="-360.5" y="7280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-36" value="8. 회원 정보&lt;br&gt;&amp;nbsp;저장(가입)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="7950" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1210" y="7770" as="sourcePoint" />
+            <mxPoint x="-550" y="7770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-38" value="6. 회원 정보 요청" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1226.25" y="7710" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="7860" as="sourcePoint" />
+            <mxPoint x="-1210" y="7860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-41" value="7. 회원 정보 리턴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-749.9999999999999" y="7800" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fb_r_ken2WNW29x0_yOV-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1210" y="8020" as="sourcePoint" />
+            <mxPoint x="-360" y="8020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
