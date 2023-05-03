@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T00:15:24.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="23vshg-bkiZdK_zlMXb4" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T00:16:51.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="j2YaXsm6RJYAEkGuA96o" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="5349" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -637,7 +637,7 @@
         <mxCell id="fb_r_ken2WNW29x0_yOV-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-740" y="7520" as="sourcePoint" />
-            <mxPoint x="-1670" y="7520" as="targetPoint" />
+            <mxPoint x="-1450" y="7520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-18" value="3. stove login 페이지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
@@ -650,11 +650,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1670" y="8580" as="sourcePoint" />
             <mxPoint x="-1670.5" y="7280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fb_r_ken2WNW29x0_yOV-20">
-          <mxGeometry x="-0.7961" y="4" relative="1" as="geometry">
-            <mxPoint x="-1" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-21" value="2. login&amp;nbsp;&lt;br&gt;GET /auth-sign&lt;br&gt;&lt;br&gt;client_id&lt;br&gt;redirect_uri&lt;br&gt;response_type=code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
@@ -690,7 +685,7 @@
         <mxCell id="fb_r_ken2WNW29x0_yOV-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1210.5900000000001" y="8340" as="sourcePoint" />
-            <mxPoint x="-1670.5900000000001" y="8340" as="targetPoint" />
+            <mxPoint x="-1450" y="8340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb_r_ken2WNW29x0_yOV-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -786,11 +781,11 @@
         <mxCell id="5jObIXC_gwPKwNfk-R3z-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1210.59" y="8540" as="sourcePoint" />
-            <mxPoint x="-1670.59" y="8540" as="targetPoint" />
+            <mxPoint x="-1450" y="8540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-13" value="15. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1670.59" y="8470" width="193.75" height="90" as="geometry" />
+          <mxGeometry x="-1460" y="8470" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
