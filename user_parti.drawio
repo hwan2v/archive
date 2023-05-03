@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T06:24:17.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3RLm05irqwqTX7sc--zK" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T06:24:39.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2H27L4dPqQRS_IeBWA3i" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="4530" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -843,8 +843,8 @@
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-80" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="8600" as="sourcePoint" />
-            <mxPoint x="1090" y="7170" as="targetPoint" />
+            <mxPoint x="1070" y="8600" as="sourcePoint" />
+            <mxPoint x="1070" y="7170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -965,7 +965,7 @@
           <mxGeometry x="390" y="7160" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-117" value="4. 로그인 성공&lt;br&gt;SUAT 쿠키(access_token)&lt;br&gt;SURT 쿠키(refresh token)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="830" y="7630" width="280" height="101" as="geometry" />
+          <mxGeometry x="1000" y="7620" width="280" height="101" as="geometry" />
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
