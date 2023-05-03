@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T07:06:01.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="whdA-Umlcl-c04IgoZO5" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T09:40:55.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GjY1q_WvJAS0dhH2nvsW" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="5349" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -952,9 +952,6 @@
             <mxPoint x="698.1199999999999" y="8070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-108" value="11. 세션 저장" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="686.25" y="8210" width="193.75" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-109" value="server&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="7160" width="140" height="130" as="geometry" />
         </mxCell>
@@ -967,14 +964,8 @@
         <mxCell id="5jObIXC_gwPKwNfk-R3z-117" value="4. 로그인 성공&lt;br&gt;SUAT 쿠키(access_token)&lt;br&gt;SURT 쿠키(refresh token)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1000" y="7620" width="280" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699.4100000000001" y="8310" as="sourcePoint" />
-            <mxPoint x="460" y="8310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-119" value="12. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="8240" width="193.75" height="90" as="geometry" />
+        <mxCell id="5jObIXC_gwPKwNfk-R3z-119" value="11. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="470" y="8200" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -988,7 +979,7 @@
         <mxCell id="5jObIXC_gwPKwNfk-R3z-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1740" y="8270" as="sourcePoint" />
-            <mxPoint x="701.56" y="8270" as="targetPoint" />
+            <mxPoint x="460" y="8270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1132,9 +1123,6 @@
             <mxPoint x="2548.12" y="7807.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-158" value="9. 세션 저장" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2536.25" y="7947.5" width="193.75" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-159" value="server&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2663.5" y="7165" width="140" height="130" as="geometry" />
         </mxCell>
@@ -1144,14 +1132,8 @@
         <mxCell id="5jObIXC_gwPKwNfk-R3z-161" value="gdb&lt;br&gt;frontend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2240" y="7165" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-163" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2549.41" y="8047.5" as="sourcePoint" />
-            <mxPoint x="2310" y="8047.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5jObIXC_gwPKwNfk-R3z-164" value="10. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="7977.5" width="193.75" height="90" as="geometry" />
+        <mxCell id="5jObIXC_gwPKwNfk-R3z-164" value="9. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="7940" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-165" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1165,7 +1147,7 @@
         <mxCell id="5jObIXC_gwPKwNfk-R3z-167" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3590" y="8007.5" as="sourcePoint" />
-            <mxPoint x="2551.56" y="8007.5" as="targetPoint" />
+            <mxPoint x="2310" y="8010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5jObIXC_gwPKwNfk-R3z-169" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
