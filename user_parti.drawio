@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T02:22:43.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2TUmh9Lp-eFEWPaJR5v8" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T02:24:17.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q99nnGw6FRnFZSxRC2Hs" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="4687" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4274" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1165,11 +1165,8 @@
         <mxCell id="ZGhnbPgWMugvLLzywLlx-3" value="router&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1235" y="8970" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZGhnbPgWMugvLLzywLlx-4" value="로그인/인증&lt;br&gt;서버&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https://accounts&lt;br&gt;.onstove.com&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-695" y="8900" width="140" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-5" value="인증서버&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https://i-api.onstove.com/&lt;br&gt;auth-sign&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-385" y="8900" width="140" height="130" as="geometry" />
+          <mxGeometry x="-670.56" y="8900" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZGhnbPgWMugvLLzywLlx-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1183,16 +1180,10 @@
             <mxPoint x="-1165.5" y="9030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGhnbPgWMugvLLzywLlx-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-625" y="10340" as="sourcePoint" />
-            <mxPoint x="-625" y="9030" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-315" y="10340" as="sourcePoint" />
-            <mxPoint x="-315.5" y="9030" as="targetPoint" />
+            <mxPoint x="-600.56" y="10340" as="sourcePoint" />
+            <mxPoint x="-601.06" y="9030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
@@ -1207,7 +1198,7 @@
             <mxPoint x="-1405" y="9100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGhnbPgWMugvLLzywLlx-12" value="1. logout 버튼 클릭" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ZGhnbPgWMugvLLzywLlx-12" value="1. 로그아웃 버튼 클릭" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1615" y="9030" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-13" value="server&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
@@ -1231,19 +1222,10 @@
         <mxCell id="ZGhnbPgWMugvLLzywLlx-17" value="2. 쿠키 확인&lt;br&gt;SUAT&lt;br&gt;SURT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1385" y="9095" width="193.75" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZGhnbPgWMugvLLzywLlx-22" value="gdb&lt;br&gt;backend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="8900" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ZGhnbPgWMugvLLzywLlx-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZGhnbPgWMugvLLzywLlx-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-126" y="10340" as="sourcePoint" />
-            <mxPoint x="-126.18000000000029" y="9100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1166.88" y="9361.5" as="sourcePoint" />
-            <mxPoint x="-316.8800000000001" y="9361.5" as="targetPoint" />
+            <mxPoint x="-600" y="9362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-26" value="3. 로그아웃 요청&lt;br&gt;POST /v1.0/user/signout&lt;br&gt;&lt;br&gt;payload&amp;nbsp;&lt;br&gt;&quot;session_type&quot;: &quot;REMOTE_LOGOUT&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
@@ -1251,12 +1233,12 @@
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-316.8700000000001" y="9422.5" as="sourcePoint" />
+            <mxPoint x="-600" y="9422" as="sourcePoint" />
             <mxPoint x="-1166.8700000000001" y="9421.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-28" value="4. 로그아웃 결과 리턴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-506.8700000000001" y="9362.5" width="193.75" height="90" as="geometry" />
+          <mxGeometry x="-793.7500000000001" y="9360" width="193.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-31" value="server&lt;br&gt;middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1051.5" y="8900" width="140" height="130" as="geometry" />
@@ -1281,6 +1263,15 @@
         </mxCell>
         <mxCell id="ZGhnbPgWMugvLLzywLlx-41" value="5. 쿠키 삭제&lt;br&gt;SUAT&lt;br&gt;SURT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1385" y="9400" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGhnbPgWMugvLLzywLlx-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1408.12" y="9540" as="sourcePoint" />
+            <mxPoint x="-1628.12" y="9540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGhnbPgWMugvLLzywLlx-43" value="6. 로그아웃. &lt;br&gt;새로고침" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1615" y="9470" width="193.75" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
