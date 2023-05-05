@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T07:31:15.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ACt2r677rFLhGY90-EcB" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T07:31:35.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3CTzUTWgO45zsJw-fvdY" version="21.2.7" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="4516" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1408,8 +1408,8 @@
         <mxCell id="KMcglu3njtUoGqnUqKHk-39" value="6. gdb 회원 정보 존재시,&lt;br&gt;로그인 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="9520" width="217.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMcglu3njtUoGqnUqKHk-40" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;gdb 로그인 과정&lt;br&gt;(스토브 로그인 &amp;amp; gdb 가입된 상태)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2487.74" y="8780" width="510" height="90" as="geometry" />
+        <mxCell id="KMcglu3njtUoGqnUqKHk-40" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;gdb 로그인 과정&lt;br&gt;3번 케이스&lt;br&gt;(gdb 가입된 상태)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2487.74" y="8720" width="510" height="150" as="geometry" />
         </mxCell>
         <mxCell id="KMcglu3njtUoGqnUqKHk-41" value="gdb&lt;br&gt;frontend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2030.62" y="8950" width="140" height="60" as="geometry" />
