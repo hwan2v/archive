@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T03:30:17.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="C5GR1SaXSDxHXBiAR91E" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T03:34:28.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5ZrLGGRXx643iH1R4AKS" version="21.2.3" type="github">
   <diagram name="페이지-1" id="tg_u4Y_7FqLar1gnm6jB">
     <mxGraphModel dx="4168" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,10 +200,10 @@
           <mxGeometry y="26" width="200" height="104" as="geometry" />
         </mxCell>
         <mxCell id="41LWJgd36wJGX9bThd_9-56" value="리뷰" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1297" y="5696" width="200" height="280" as="geometry" />
+          <mxGeometry x="-1340" y="5696" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="41LWJgd36wJGX9bThd_9-57" value="리뷰ID(PK) int(11)&lt;br&gt;--------------&lt;br&gt;게임ID(FK) int(11)&lt;br&gt;유저ID(FK) int(11)&lt;br&gt;키워드평가ID int(4)&lt;br&gt;평점 int(1)&lt;br&gt;편집시간 date&lt;br&gt;내용 text&lt;br&gt;상태 int(1)&lt;br&gt;가중치 int(1)&lt;br&gt;제목?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="41LWJgd36wJGX9bThd_9-56">
-          <mxGeometry y="26" width="200" height="254" as="geometry" />
+        <mxCell id="41LWJgd36wJGX9bThd_9-57" value="리뷰ID(PK) int(11)&lt;br&gt;--------------&lt;br&gt;게임ID(FK) int(11)&lt;br&gt;유저ID(FK) int(11)&lt;br&gt;키워드평가 varchar(256) json&lt;br&gt;평점 int(1)&lt;br&gt;편집시간 date&lt;br&gt;내용 text&lt;br&gt;상태 int(1)&lt;br&gt;가중치 int(1)&lt;br&gt;제목?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="41LWJgd36wJGX9bThd_9-56">
+          <mxGeometry y="26" width="270" height="254" as="geometry" />
         </mxCell>
         <mxCell id="41LWJgd36wJGX9bThd_9-58" value="댓글" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-997" y="5716" width="200" height="240" as="geometry" />
@@ -238,7 +238,7 @@
         <mxCell id="41LWJgd36wJGX9bThd_9-65" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="41LWJgd36wJGX9bThd_9-57">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1197" y="5960" as="sourcePoint" />
-            <mxPoint x="-1197" y="6036" as="targetPoint" />
+            <mxPoint x="-1200" y="6030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41LWJgd36wJGX9bThd_9-66" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.503;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="41LWJgd36wJGX9bThd_9-59">
