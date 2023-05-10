@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:36:54.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sbpCIy2pdCPAe-9ercwS" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:37:28.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fphx_klhy0MVkIVZ9HmA" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="4871" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6066" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1706,13 +1706,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5JENNdihHjm3L_T9t9BW-35" value="8. 약관 페이지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="11620" width="217.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5JENNdihHjm3L_T9t9BW-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="11700" as="sourcePoint" />
-            <mxPoint x="47.499999999999886" y="11700" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="264.38" y="11620" width="217.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5JENNdihHjm3L_T9t9BW-37" value="9. 약관 동의" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="11760" width="217.5" height="90" as="geometry" />
