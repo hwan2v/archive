@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T03:22:34.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-Qf-bm2gZgI8rfhmgFLd" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T03:23:23.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rdvEvDEQnOOriE8ZO5jk" version="21.2.3" type="github">
   <diagram name="페이지-1" id="tg_u4Y_7FqLar1gnm6jB">
     <mxGraphModel dx="3341" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="41LWJgd36wJGX9bThd_9-32" value="키워드_평가_코드" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1570" y="3970" width="340" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="41LWJgd36wJGX9bThd_9-33" value="평가코드ID(PK) int(11)&lt;br&gt;--------------&lt;br&gt;평가(긍정,중립,부정) int(1)&lt;br&gt;평가문구 varchar(256)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="41LWJgd36wJGX9bThd_9-32">
+        <mxCell id="41LWJgd36wJGX9bThd_9-33" value="평가코드ID(PK) int(11)&lt;br&gt;--------------&lt;br&gt;평가(긍정,중립,부정) int(1)&lt;br&gt;코멘트 varchar(256)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="41LWJgd36wJGX9bThd_9-32">
           <mxGeometry y="26" width="340" height="114" as="geometry" />
         </mxCell>
         <mxCell id="41LWJgd36wJGX9bThd_9-34" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0.998;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="41LWJgd36wJGX9bThd_9-27" target="41LWJgd36wJGX9bThd_9-29">
