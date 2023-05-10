@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:30:15.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NmYrnhX-_1Sb1FsnDaTW" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:36:54.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sbpCIy2pdCPAe-9ercwS" version="21.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="4871" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1693,8 +1693,56 @@
             <mxPoint x="510" y="11043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5JENNdihHjm3L_T9t9BW-31" value="6. gdb 회원 정보 존재시,&lt;br&gt;로그인 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="11390" width="217.5" height="90" as="geometry" />
+        <mxCell id="5JENNdihHjm3L_T9t9BW-31" value="6. gdb 미가입 확인&lt;br&gt;스토브 회원 정보 캐싱&lt;br&gt;사용자 익명으로 활동&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="11370" width="217.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-32" value="7. 로그인 이벤트 발생&lt;br&gt;(로그인 버튼, &lt;br&gt;글쓰기, 리뷰 등)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="11510" width="217.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="47.49999999999994" y="11600" as="sourcePoint" />
+            <mxPoint x="268.12" y="11600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-35" value="8. 약관 페이지" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="11620" width="217.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="11700" as="sourcePoint" />
+            <mxPoint x="47.499999999999886" y="11700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-37" value="9. 약관 동의" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="11760" width="217.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="47.49999999999994" y="11840" as="sourcePoint" />
+            <mxPoint x="510" y="11840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="11840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-42" value="11. 로그인(가입) 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="11920" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="507.80999999999995" y="11930" as="sourcePoint" />
+            <mxPoint x="1546.25" y="11930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-44" value="10. gdb 회원 &lt;br&gt;가입(갱신)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="504.3699999999999" y="11860" width="193.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5JENNdihHjm3L_T9t9BW-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1546.25" y="11990" as="sourcePoint" />
+            <mxPoint x="266.25" y="11990" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
