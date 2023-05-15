@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T10:27:20.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0_nDDbpo4T6t8KheXqWo" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T10:27:59.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y88jJ18pM3hkQPzEN7nx" version="21.2.9" type="github">
   <diagram name="페이지-1" id="tg_u4Y_7FqLar1gnm6jB">
     <mxGraphModel dx="4530" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,10 +58,10 @@
         <mxCell id="41LWJgd36wJGX9bThd_9-20" value="write" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6891769607345768;arrowSize=0.17510835721895265;" parent="1" vertex="1">
           <mxGeometry x="-785" y="2930" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="41LWJgd36wJGX9bThd_9-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key: reply:like:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="41LWJgd36wJGX9bThd_9-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key: reply:like:댓글번호&lt;br&gt;value: [유저ID, ..]&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="3070" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="41LWJgd36wJGX9bThd_9-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key:&amp;nbsp;reply:report:댓글Id&lt;br&gt;value: 유저ID&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="41LWJgd36wJGX9bThd_9-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;key:&amp;nbsp;reply:report:댓글번호&lt;br&gt;value: [유저ID, ..]&lt;br&gt;&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1075" y="3200" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="41LWJgd36wJGX9bThd_9-25" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;유저참여 - 평점/키워드평가(v2)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
