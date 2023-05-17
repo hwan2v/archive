@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T00:16:53.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sez-Rk1hQlPYolkXNC4Q" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T00:19:26.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oBNwg_6oOl2rUQA1wSaP" version="21.2.9" type="github">
   <diagram name="페이지-1" id="tg_u4Y_7FqLar1gnm6jB">
     <mxGraphModel dx="7352" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4NHRYhveblgeLHfDLEM1-15" value="cms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2288" width="191" height="62" as="geometry" />
+          <mxGeometry x="318" y="2288" width="191" height="62" as="geometry" />
         </mxCell>
         <mxCell id="4NHRYhveblgeLHfDLEM1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4NHRYhveblgeLHfDLEM1-15" target="4NHRYhveblgeLHfDLEM1-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -494,6 +494,15 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-2870" y="6050" as="sourcePoint" />
             <mxPoint x="-3157.5" y="6125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NHRYhveblgeLHfDLEM1-117" value="admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="99" y="2288" width="191" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="4NHRYhveblgeLHfDLEM1-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4NHRYhveblgeLHfDLEM1-117" target="4NHRYhveblgeLHfDLEM1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396" y="2360" as="sourcePoint" />
+            <mxPoint x="590" y="2599" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
