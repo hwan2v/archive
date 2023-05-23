@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T06:32:09.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cUJCBiicW-MsUQiGm-JI" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T06:37:48.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eDKbZDa9UHa-OoUiZH7w" version="21.2.9" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="4530" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1810,7 +1810,7 @@
             <mxPoint x="-964.94" y="11401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuEYIQCDUfB7Aoz4lom7-17" value="3. 로그아웃 요청&lt;br&gt;logout(access_token)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yuEYIQCDUfB7Aoz4lom7-17" value="3. 로그아웃 요청&lt;br&gt;logout(&lt;br&gt;access_token, &lt;br&gt;x-owner-content)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1449.37" y="11160" width="318.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yuEYIQCDUfB7Aoz4lom7-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -1852,16 +1852,16 @@
         <mxCell id="yuEYIQCDUfB7Aoz4lom7-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-1388.1299999999999" y="11040" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yuEYIQCDUfB7Aoz4lom7-30" value="4. 로그아웃 요청&lt;br&gt;&lt;br&gt;POST /api/auth/logout&lt;br&gt;&lt;br&gt;payload&lt;br&gt;access_token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yuEYIQCDUfB7Aoz4lom7-30" value="4. 로그아웃 요청&lt;br&gt;&lt;br&gt;POST /api/auth/logout&lt;br&gt;&lt;br&gt;payload&lt;br&gt;access_token,&lt;br&gt;x-owner-content" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1215.25" y="11270" width="318.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yuEYIQCDUfB7Aoz4lom7-31" value="5. 로그아웃 요청&lt;br&gt;&lt;br&gt;POST /sign/v1.0/user/signout&lt;br&gt;&lt;br&gt;payload&amp;nbsp;&lt;br&gt;&quot;session_type&quot;: &quot;REMOTE_LOGOUT&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1036.5" y="11440" width="318.75" height="90" as="geometry" />
+        <mxCell id="yuEYIQCDUfB7Aoz4lom7-31" value="5. 로그아웃 요청&lt;br&gt;&lt;br&gt;POST /sign/v1.0/user/signout&lt;br&gt;header&lt;br&gt;access_token,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;x-owner-content&lt;br&gt;&lt;br&gt;payload&amp;nbsp;&lt;br&gt;&quot;session_type&quot;: &quot;REMOTE_LOGOUT&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-1028.75" y="11430" width="318.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yuEYIQCDUfB7Aoz4lom7-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-965.9400000000002" y="11574.5" as="sourcePoint" />
-            <mxPoint x="-590" y="11575" as="targetPoint" />
+            <mxPoint x="-965.9400000000002" y="11600" as="sourcePoint" />
+            <mxPoint x="-590" y="11600.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yuEYIQCDUfB7Aoz4lom7-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" parent="1" vertex="1">
