@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T16:31:50.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u6isKbE22MtlDyEcBoqU" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T16:34:57.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_otYeQR8jt0TGRTP1gIj" version="21.3.5" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="6649" dy="-280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="-4399.999999999999" y="1490" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-2" value="keyword_group(nosql)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-4323.249999999999" y="2923" width="240" height="260" as="geometry" />
+          <mxGeometry x="-4323.249999999999" y="3133" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-3" value="&lt;div&gt;_id objectId&lt;/div&gt;&lt;div&gt;----&lt;/div&gt;&lt;div&gt;index_name&lt;/div&gt;&lt;div&gt;filename&lt;/div&gt;&lt;div&gt;version&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;total_count&lt;/div&gt;&lt;div&gt;total_avg&lt;/div&gt;&lt;div&gt;level_1_count&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;level_1_avg&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="kOj9zgRLDcuydEbsRaON-2">
           <mxGeometry y="26" width="240" height="234" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-4" value="keyword(nosql)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-3938.249999999999" y="2943" width="280" height="220" as="geometry" />
+          <mxGeometry x="-3938.249999999999" y="3153" width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-5" value="_id objectId&lt;br&gt;----&lt;br&gt;filename&lt;br&gt;version&lt;br&gt;keyword&lt;br&gt;level&lt;br&gt;expected&lt;br&gt;rank&lt;br&gt;result" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="kOj9zgRLDcuydEbsRaON-4">
           <mxGeometry y="26" width="280" height="194" as="geometry" />
@@ -34,8 +34,8 @@
         <mxCell id="kOj9zgRLDcuydEbsRaON-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1등 문서 키워드 입력&lt;br&gt;keyword, game_id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4770" y="1640" width="231.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kOj9zgRLDcuydEbsRaON-20" value="GDB&lt;br style=&quot;font-size: 20px;&quot;&gt;gamesearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-3847.31" y="1679" width="180" height="90" as="geometry" />
+        <mxCell id="kOj9zgRLDcuydEbsRaON-20" value="GDB&lt;br style=&quot;font-size: 20px;&quot;&gt;gamesearch&lt;br&gt;(live)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3850" y="1669.5" width="180" height="109" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-21" value="GDB admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-4415" y="2010" width="140" height="70" as="geometry" />
@@ -51,23 +51,23 @@
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-24" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kOj9zgRLDcuydEbsRaON-3" target="kOj9zgRLDcuydEbsRaON-5">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-4253.25" y="3093" as="sourcePoint" />
-            <mxPoint x="-4153.25" y="2993" as="targetPoint" />
+            <mxPoint x="-4253.25" y="3303" as="sourcePoint" />
+            <mxPoint x="-4153.25" y="3203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-4820" y="2010" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-26" value="experimental_index" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-4713.249999999999" y="2923" width="240" height="260" as="geometry" />
+          <mxGeometry x="-4713.249999999999" y="3133" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-27" value="&lt;div&gt;_id objectId&lt;/div&gt;&lt;div&gt;----&lt;/div&gt;&lt;div&gt;index_name&lt;/div&gt;&lt;div&gt;version&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;mappings&lt;/div&gt;&lt;div&gt;comment&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" vertex="1" parent="kOj9zgRLDcuydEbsRaON-26">
           <mxGeometry y="26" width="240" height="234" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-28" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kOj9zgRLDcuydEbsRaON-27" target="kOj9zgRLDcuydEbsRaON-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-4073.25" y="3076" as="sourcePoint" />
-            <mxPoint x="-3928.25" y="3076" as="targetPoint" />
+            <mxPoint x="-4073.25" y="3286" as="sourcePoint" />
+            <mxPoint x="-3928.25" y="3286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-29" value="GDB&lt;br style=&quot;font-size: 20px;&quot;&gt;admin" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1. 실험할 인덱스 정보&lt;br&gt;(setting, mapping, name, ...)&lt;br&gt;입력&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-4730" y="2050" width="231.5" height="90" as="geometry" />
+          <mxGeometry x="-4721.5" y="2060" width="231.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,8 +142,8 @@
             <mxPoint x="-4040" y="2380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kOj9zgRLDcuydEbsRaON-45" value="GDB&lt;br&gt;gamesearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-3600" y="1995" width="180" height="90" as="geometry" />
+        <mxCell id="kOj9zgRLDcuydEbsRaON-45" value="GDB&lt;br&gt;gamesearch&lt;br&gt;(dev)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3600" y="1980" width="180" height="105" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -222,6 +222,21 @@
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;11. 키워드 조회&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3760" y="2630" width="231.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj9zgRLDcuydEbsRaON-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4800" y="2780" as="sourcePoint" />
+            <mxPoint x="-4350" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOj9zgRLDcuydEbsRaON-64" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;13. 결과 확인 및 live 색인&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4770" y="2710" width="231.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj9zgRLDcuydEbsRaON-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;0. live cms task 덤프&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3880" y="1910" width="231.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj9zgRLDcuydEbsRaON-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;14. dev 인덱스를 &lt;br&gt;live로 재색인&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3870" y="2810" width="231.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
