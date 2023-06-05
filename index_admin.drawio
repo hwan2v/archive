@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T06:04:13.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZYsoJaZYlZ_jZFIlStur" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T06:32:43.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="glG9hYK23VOsl5VKR4Wz" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
-    <mxGraphModel dx="6328" dy="-432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6874" dy="-137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,90 @@
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;동의어 사전에 키워드 저장&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4140" y="1500" width="240.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-19" target="xoKeOdRZfIXwxLfYwCdb-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4720" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-19" value="서비스 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-4820" y="3540" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-20" target="xoKeOdRZfIXwxLfYwCdb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4385.75" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-20" value="GDB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-4600" y="3535" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-25" target="xoKeOdRZfIXwxLfYwCdb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-25" value="GDB&lt;br style=&quot;font-size: 20px;&quot;&gt;gdb_user" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4291.5" y="3525" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-28" target="xoKeOdRZfIXwxLfYwCdb-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4211.5" y="4110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-28" value="VM&lt;br&gt;(op-script)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-4271.5" y="3760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-30" target="xoKeOdRZfIXwxLfYwCdb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-30" value="mgt&lt;br&gt;ES Index" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4291.5" y="4230" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-32" value="mgt&lt;br&gt;kibana" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-4600" y="4240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-34" target="xoKeOdRZfIXwxLfYwCdb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-34" value="운영자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-4820" y="4245" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1.키워드 검색&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4810" y="3500" width="231.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2. 키워드 저장&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4490" y="3500" width="231.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3. 주기적으로 op-script 실행&lt;br&gt;키워드 로그 증분 데이터 &lt;br&gt;처리(가공하여 mgt index에 저장)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4229.25" y="3620" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;5. gdb- prefix Index 생성&lt;br&gt;&lt;br&gt;6. 키워드 가공&lt;br&gt;밴키워드 여부,&lt;br&gt;동의어 유무&lt;br&gt;선택 게임&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4415" y="3840" width="220" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-40" value="7. gdb- prefix index 연동" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4548" y="4300" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-41" value="8. visualization 작성 및 보기" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4910" y="4310" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-42" target="xoKeOdRZfIXwxLfYwCdb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-42" value="GDB&lt;br&gt;admin" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3875.75" y="3750" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;4. 밴키워드, 동의어 정보 읽기&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4170" y="3780" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-45" value="GDB admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-3868.25" y="4092" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xoKeOdRZfIXwxLfYwCdb-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4200" y="4127" as="sourcePoint" />
+            <mxPoint x="-3912.13" y="4126.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;7. 갱신이 필요한 게임 or 키워드&lt;br&gt;후보 업데이트&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4160.37" y="4047" width="281.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
