@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T00:47:10.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wY5QcRTr6Vh2B7Vn-ZZY" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T00:54:24.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gD0G5M5E9u6QDY_JWp74" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
-    <mxGraphModel dx="6649" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7352" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,45 +233,45 @@
           <mxGeometry x="-4770" y="2710" width="231.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;0. live cms task 덤프&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-3880" y="1910" width="231.5" height="90" as="geometry" />
+          <mxGeometry x="-3875.75" y="1930" width="231.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;14. dev 인덱스를 &lt;br&gt;live로 재색인&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-3870" y="2810" width="231.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-1" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;GDB admin&lt;br&gt;인덱스 평가 및 색인&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-4389.999999999999" y="1810" width="510" height="90" as="geometry" />
+          <mxGeometry x="-4389.999999999999" y="1740" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-3" value="GDB&lt;br style=&quot;font-size: 20px;&quot;&gt;admin" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4275" y="2990" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-4" value="실험 인덱스 생성" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-4650" y="3570" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4558.5" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-5" value="색인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-4415" y="3570" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4323.5" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-6" value="평가" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-4190" y="3570" width="140" height="70" as="geometry" />
+          <mxGeometry x="-4098.5" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-7" value="live 인덱스&lt;br&gt;반영" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-3962.5" y="3570" width="140" height="70" as="geometry" />
+          <mxGeometry x="-3871" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-4" target="xoKeOdRZfIXwxLfYwCdb-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4200" y="3420" as="sourcePoint" />
-            <mxPoint x="-4150" y="3370" as="targetPoint" />
+            <mxPoint x="-4108.5" y="1700" as="sourcePoint" />
+            <mxPoint x="-4058.5" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-5" target="xoKeOdRZfIXwxLfYwCdb-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4500" y="3615" as="sourcePoint" />
-            <mxPoint x="-4405" y="3615" as="targetPoint" />
+            <mxPoint x="-4408.5" y="1895" as="sourcePoint" />
+            <mxPoint x="-4313.5" y="1895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-6" target="xoKeOdRZfIXwxLfYwCdb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4255" y="3625" as="sourcePoint" />
-            <mxPoint x="-4170" y="3625" as="targetPoint" />
+            <mxPoint x="-4163.5" y="1905" as="sourcePoint" />
+            <mxPoint x="-4078.5" y="1905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
