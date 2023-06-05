@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T01:03:08.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4uIAuUVnWMmdx7hpLQCE" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T06:04:13.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZYsoJaZYlZ_jZFIlStur" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
-    <mxGraphModel dx="7352" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6328" dy="-432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="kOj9zgRLDcuydEbsRaON-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-4820" y="2010" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOj9zgRLDcuydEbsRaON-26" value="experimental_index" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="kOj9zgRLDcuydEbsRaON-26" value="experimental_index(nosql)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-4713.249999999999" y="3133" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kOj9zgRLDcuydEbsRaON-27" value="&lt;div&gt;_id objectId&lt;/div&gt;&lt;div&gt;----&lt;/div&gt;&lt;div&gt;index_name&lt;/div&gt;&lt;div&gt;version&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;mappings&lt;/div&gt;&lt;div&gt;comment&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=0;horizontal=1;" parent="kOj9zgRLDcuydEbsRaON-26" vertex="1">
