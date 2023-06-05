@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T06:43:04.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="j3dkZxii2TDEJ4wF2fZJ" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T06:46:34.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X_Ksqlf07ksM8jJs7qTj" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="6874" dy="-137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,8 +346,8 @@
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-40" value="8. gdb- prefix index 연동" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4528.5" y="4120" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xoKeOdRZfIXwxLfYwCdb-41" value="9. visualization 작성 및 보기&lt;br&gt;시간, 일단위" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-4850" y="4137" width="330" height="90" as="geometry" />
+        <mxCell id="xoKeOdRZfIXwxLfYwCdb-41" value="9. visualization 작성&lt;br&gt;시간, 일단위로 검색 키워드,&lt;br&gt;밴키워드 등등" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4850" y="4120" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xoKeOdRZfIXwxLfYwCdb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xoKeOdRZfIXwxLfYwCdb-42" target="xoKeOdRZfIXwxLfYwCdb-28">
           <mxGeometry relative="1" as="geometry" />
