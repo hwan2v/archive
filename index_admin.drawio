@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T02:12:35.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f_APYsXcqQD5Drn_Wtki" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:20:56.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LEZNoUBtctZmR-ZQjmNd" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="7838" dy="-63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
         <mxCell id="NhqdgFwvO9RX2dPejDJj-93" value="mgt kibana" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3969.38" y="5565" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-94" value="키워드 로그 읽기&lt;br&gt;&lt;br&gt;밴키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-94" value="키워드 로그 읽기&lt;br&gt;&lt;br&gt;키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-4568.5" y="5200" width="178.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-96" value="색인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
@@ -551,7 +551,7 @@
         <mxCell id="NhqdgFwvO9RX2dPejDJj-103" value="정답형/밴 키워드 입력" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-3721" y="5310" width="145.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-105" value="밴키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-105" value="정답형/밴&lt;br&gt;키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-4140" y="5185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-106" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Search&lt;br&gt;Feature&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
