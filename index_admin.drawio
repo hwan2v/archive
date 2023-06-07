@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T02:06:00.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ae1MDyI1ctvNUexWo0U5" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:06:13.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SqiEA16bj-4xvaLjgENi" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="7838" dy="-63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
           <mxGeometry x="-3734.25" y="5420" width="44.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-6" value="서비스 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-3581.5" y="5110" width="40" height="60" as="geometry" />
+          <mxGeometry x="-3430" y="5120" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NhqdgFwvO9RX2dPejDJj-10" target="NhqdgFwvO9RX2dPejDJj-12">
           <mxGeometry relative="1" as="geometry">
