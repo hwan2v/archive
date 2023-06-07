@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T02:00:38.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i0g3TEFuxszEKmH_QqGx" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:06:00.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ae1MDyI1ctvNUexWo0U5" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="7838" dy="-63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-5" value="운영자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-3739.13" y="5425" width="44.25" height="60" as="geometry" />
+          <mxGeometry x="-3734.25" y="5420" width="44.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-6" value="서비스 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-3581.5" y="5110" width="40" height="60" as="geometry" />
@@ -493,7 +493,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-62" value="ES[dev]&lt;br&gt;(index&amp;nbsp;comparison&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-4384.38" y="5410" width="254.25" height="90" as="geometry" />
+          <mxGeometry x="-4354.63" y="5400" width="202.27" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NhqdgFwvO9RX2dPejDJj-65" target="NhqdgFwvO9RX2dPejDJj-21">
           <mxGeometry relative="1" as="geometry">
@@ -503,8 +503,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-65" value="Tool" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3969.38" y="5420" width="140" height="70" as="geometry" />
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-65" value="Tool?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3970.37" y="5415" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-82" value="game 검수" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-4514.25" y="4590" width="120" height="60" as="geometry" />
@@ -524,11 +524,41 @@
         <mxCell id="NhqdgFwvO9RX2dPejDJj-88" value="키워드 통계" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-4860" y="5320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-89" value="키워드 통계" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-4095" y="5680" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-90" value="airflow&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-5087.88" y="5000" width="190" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-91" value="키워드 통계 &lt;br&gt;업데이트" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4590" y="5550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-92" value="게임 문서 색인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4580" y="5400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-93" value="mgt kibana" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3969.38" y="5565" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-94" value="키워드 로그 읽기&lt;br&gt;&lt;br&gt;밴키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4568.5" y="5200" width="178.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-96" value="색인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4558.5" y="4930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-97" value="정답형 키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-3898.5" y="5020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-98" value="로그 저장" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4271.5" y="5110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-101" value="인덱스 비교 &lt;br&gt;페이지" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4131.5" y="5400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-102" value="비교 결과 기록" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4010" y="5310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-103" value="정답형/밴 키워드 입력" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-3721" y="5310" width="145.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-105" value="밴키워드 업뎃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-4135" y="5185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
