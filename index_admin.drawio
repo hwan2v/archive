@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T10:05:06.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cCCtzCrn8YhDgtWm5Fpf" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T10:05:37.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DjEYPrplbZEC172MFh_w" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="7838" dy="-145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -595,18 +595,6 @@
         <mxCell id="NhqdgFwvO9RX2dPejDJj-120" value="검색" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-3861" y="5000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-135" value="금칙어 목록" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-4514.25" y="6050" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-136" value="등록/삭제" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-4292.36" y="6050" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-137" value="금칙어, 타입, 액션, 유형 등등등" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-4083.2499999999995" y="6050" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NhqdgFwvO9RX2dPejDJj-138" value="admin DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3830.3700000000003" y="6035" width="180" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-147" value="동의어 &lt;br&gt;등록/삭제 요청" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="-4111.5" y="4550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -620,28 +608,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-150" value="ES games 인덱스 조회" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-4780" y="5890" width="270" height="110" as="geometry" />
+          <mxGeometry x="-4803.5" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhqdgFwvO9RX2dPejDJj-151" target="NhqdgFwvO9RX2dPejDJj-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-151" value="검색 결과 노출&lt;br&gt;(게임ID, 게임명, 동의어)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-4418.5" y="5890" width="270" height="110" as="geometry" />
+          <mxGeometry x="-4467.76" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhqdgFwvO9RX2dPejDJj-152" target="NhqdgFwvO9RX2dPejDJj-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-152" value="게임 선택&lt;br&gt;동의어 추가/삭제" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-4058.5" y="5890" width="270" height="110" as="geometry" />
+          <mxGeometry x="-4125.75" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhqdgFwvO9RX2dPejDJj-153" target="NhqdgFwvO9RX2dPejDJj-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-153" value="CMS 추가/삭제 API 호출" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-3710" y="5890" width="270" height="110" as="geometry" />
+          <mxGeometry x="-3788.5" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-154" value="ES games 인덱스 업데이트" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-3370" y="5890" width="270" height="110" as="geometry" />
+          <mxGeometry x="-3460" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
