@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T10:02:17.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SxRt1OA_UTV28Q4jed-n" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T10:04:22.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L_5JWrlhYNgIvAp9TdEX" version="21.2.9" type="github">
   <diagram name="페이지-1" id="wMU4Spr5B8NG2VynbrcT">
     <mxGraphModel dx="7838" dy="-63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -642,6 +642,21 @@
         </mxCell>
         <mxCell id="NhqdgFwvO9RX2dPejDJj-147" value="동의어 &lt;br&gt;등록/삭제 요청" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;glass=0;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="-4111.5" y="4550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-149" value="게임 검색&lt;br&gt;(게임ID, 게임명, 기타 검색어)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-5130" y="5890" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-150" value="ES games 인덱스 조회" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-4780" y="5890" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-151" value="검색 결과 노출&lt;br&gt;(게임ID, 게임명, 동의어)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-4418.5" y="5890" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-152" value="게임 선택&lt;br&gt;동의어 추가/삭제" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-4058.5" y="5890" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqdgFwvO9RX2dPejDJj-153" value="게임 선택&lt;br&gt;동의어 추가/삭제" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3690" y="5890" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
