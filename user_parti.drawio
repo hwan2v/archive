@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T01:27:24.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8k-LHwUSwR6h6oWbUEfD" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T01:28:42.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ircRfLvckaV-7RJlUhkW" version="21.6.8" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="5569" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2286,7 +2286,7 @@
         <mxCell id="rheI07onfUVUUfrUJ8WK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rheI07onfUVUUfrUJ8WK-3" target="rheI07onfUVUUfrUJ8WK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rheI07onfUVUUfrUJ8WK-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;app&lt;br&gt;(fastapi)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="rheI07onfUVUUfrUJ8WK-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;app&lt;br&gt;(fastapi)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3420" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rheI07onfUVUUfrUJ8WK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rheI07onfUVUUfrUJ8WK-9" target="rheI07onfUVUUfrUJ8WK-29">
@@ -2330,7 +2330,16 @@
         <mxCell id="rheI07onfUVUUfrUJ8WK-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;search&lt;br&gt;(front)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-3070" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rheI07onfUVUUfrUJ8WK-31" value="sqlite" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="rheI07onfUVUUfrUJ8WK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rheI07onfUVUUfrUJ8WK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3170" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3830" y="950" />
+              <mxPoint x="-3169" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rheI07onfUVUUfrUJ8WK-31" value="mysql&lt;br&gt;(cms?)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-3880" y="850" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
