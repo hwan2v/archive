@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T09:50:07.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H7IX3u_Azzx5xHYr0f4x" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T00:19:56.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="r7Hwlrr9-X1TXhqT8fr6" version="22.0.4" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="10531" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3010,29 +3010,32 @@
         <mxCell id="oZMuTC4kUx6wd9vaaYJD-24" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-8200" y="90" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-25" value="Sim Game A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8470" y="236" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-25" value="Sim Game A&lt;br&gt;0.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8467.5" y="265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-26" value="Sim Game B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8470" y="315" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-26" value="Sim Game B&lt;br&gt;0.2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8467.5" y="344" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-27" value="Sim Game C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8310" y="236" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-27" value="Sim Game C&lt;br&gt;0.5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8307.5" y="265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-28" value="Sim Game B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8310" y="315" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-28" value="Sim Game B&lt;br&gt;0.6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8307.5" y="344" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-29" value="Sim Game D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8160" y="237" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-29" value="Sim Game D&lt;br&gt;0.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8157.5" y="266" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-30" value="Sim Game F" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8160" y="316" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-30" value="Sim Game F&lt;br&gt;0.3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8157.5" y="345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-31" value="Sim Game D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8010" y="237" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-31" value="Sim Game D&lt;br&gt;0.3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8007.5" y="266" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZMuTC4kUx6wd9vaaYJD-32" value="Sim Game G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-8010" y="316" width="120" height="60" as="geometry" />
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-32" value="Sim Game G&lt;br&gt;0.4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-8007.5" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZMuTC4kUx6wd9vaaYJD-33" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8200" y="210" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
