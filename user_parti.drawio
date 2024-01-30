@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:41:44.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AyFbRfx7KVpfA57mkP8f" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:41:48.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8dhIw7pZ_3wo53NsPnVZ" version="22.1.21" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="11433" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3427,7 +3427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-86" value="키워드/게임별 &lt;br&gt;순위 색인" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7510" y="2356" width="115" height="65" as="geometry" />
+          <mxGeometry x="-7636.5" y="2356" width="115" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8it7NZqnuq_5s5tp2t7S-60" target="8it7NZqnuq_5s5tp2t7S-68">
           <mxGeometry relative="1" as="geometry">
