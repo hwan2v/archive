@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:56:48.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RYnhY0D_Pu12avvphw3F" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:57:51.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oMIdD0SXVCxjVuevbZ0Q" version="22.1.21" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="11433" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3319,8 +3319,8 @@
         <mxCell id="8it7NZqnuq_5s5tp2t7S-38" value="MilvusDB&lt;br&gt;&lt;br&gt;벡터" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-7390" y="2232" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; search-ai&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-7865" y="2960" width="220" height="310" as="geometry" />
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; search-ai&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-7850" y="2930" width="220" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-41" value="소스 데이터" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-8565" y="2220" width="160" height="430" as="geometry" />
@@ -3440,19 +3440,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-88" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7768.75" y="2750" width="60" height="170" as="geometry" />
+          <mxGeometry x="-7768.75" y="2750" width="60" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-89" value="개인화 추천&lt;br&gt;(협조 필터링)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-7822" y="3000" width="120" height="60" as="geometry" />
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-89" value="협조 필터링 추천&lt;br&gt;(개인화)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-7802" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-91" value="토픽 추천" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-7822" y="3080" width="120" height="60" as="geometry" />
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-91" value="토픽 추천&lt;br&gt;(공통)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-7802" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-92" value="연관 추천" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-7821" y="3166" width="120" height="60" as="geometry" />
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-92" value="연관 추천&lt;br&gt;(공통)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-7801" y="3126" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-39" value="remote&lt;br&gt;(gitlab)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-7787.5" y="2797.5" width="103.75" height="75" as="geometry" />
+          <mxGeometry x="-7787.5" y="2793.75" width="97.5" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-95" value="클릭 로그&lt;br&gt;전처리" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-8120" y="2383.5" width="120" height="60" as="geometry" />
