@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:42:00.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="otbIwVxxMxOZrRZ8dHN9" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:42:42.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qiSOeyTJaIcJOuk_aFCJ" version="22.1.21" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="11433" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3320,10 +3320,10 @@
           <mxGeometry x="-7390" y="2232" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-39" value="remote&lt;br&gt;(gitlab)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-7577" y="3106" width="100" height="90" as="geometry" />
+          <mxGeometry x="-7621.5" y="2765" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;search-ai&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-7930" y="2890" width="475" height="204" as="geometry" />
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; search-ai&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-7967.5" y="2898" width="437.5" height="332" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-41" value="소스 데이터" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-8390" y="2220" width="160" height="430" as="geometry" />
@@ -3438,6 +3438,9 @@
               <mxPoint x="-7340" y="2500" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-88" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-7753.75" y="2760" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
