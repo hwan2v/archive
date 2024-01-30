@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T07:05:07.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gg3F_eTFVGPAZRX6gXfC" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:06:46.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="--N85JU4oGX0E0PJpIlc" version="22.1.21" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="11720" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11639" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3410,12 +3410,8 @@
         <mxCell id="8it7NZqnuq_5s5tp2t7S-64" value="대표 토픽 선별" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-7690" y="2247" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8it7NZqnuq_5s5tp2t7S-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8it7NZqnuq_5s5tp2t7S-68" target="8it7NZqnuq_5s5tp2t7S-105">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-7634" y="2580" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8it7NZqnuq_5s5tp2t7S-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=60;exitPerimeter=0;" edge="1" parent="1" source="8it7NZqnuq_5s5tp2t7S-68" target="8it7NZqnuq_5s5tp2t7S-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8it7NZqnuq_5s5tp2t7S-68" value="MongoDB&lt;br&gt;&lt;br&gt;순위/개인화 &lt;br&gt;데이터" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-7450" y="2517.5" width="100" height="90" as="geometry" />
