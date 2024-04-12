@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T10:12:29.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SypG07h3sj4OnQy4ou3p" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T10:12:38.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XNbPXD89-TwJ6UI0THTz" version="24.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="12315" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3745,7 +3745,7 @@
           <mxGeometry x="-4280" y="2787.5" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PjZLMq5wqh1MerhEDPl6-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;member_no: 1&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-01&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-5310" y="1775" width="240" height="135" as="geometry" />
+          <mxGeometry x="-5310" y="1790" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PjZLMq5wqh1MerhEDPl6-30" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Document&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;member_no: 2&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;code: topic&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;timestamp: 2024-01-01&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-4300" y="2627.5" width="280" height="155" as="geometry" />
