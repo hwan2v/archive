@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T10:08:49.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QLtwjVHgFynaCGXlX0P4" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T10:11:42.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="g1aQPSbUnFuzc3CQ-5ov" version="24.2.3" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="12714" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12315" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3648,8 +3648,8 @@
         <mxCell id="hUsqTf7OQGVadwyqAbGp-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;index&lt;br&gt;분할 색인&lt;br&gt;member_no 기준으로 분할 색인&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-5330" y="2040.5" width="180" height="93.5" as="geometry" />
         </mxCell>
-        <mxCell id="hUsqTf7OQGVadwyqAbGp-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;&lt;br&gt;member_no: 1&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-01&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-5310" y="1875.5" width="240" height="165" as="geometry" />
+        <mxCell id="hUsqTf7OQGVadwyqAbGp-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;member_no: 2&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-01&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="-5310" y="1910" width="240" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;전체 색인&lt;br&gt;주기: W1 or D3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-6050" y="1915" width="370" height="118.5" as="geometry" />
@@ -3702,7 +3702,7 @@
         <mxCell id="hUsqTf7OQGVadwyqAbGp-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;기존 추천 색인 &lt;br&gt;파일과 조인&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-5470" y="2454" width="150" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="hUsqTf7OQGVadwyqAbGp-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;&lt;br&gt;member_no: 1&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-02&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="hUsqTf7OQGVadwyqAbGp-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;&lt;br&gt;member_no: n&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-02&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-5290" y="2500" width="240" height="165" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;member_no 기준으로 기존 색인에 신규 문서 추가&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -3726,8 +3726,8 @@
         <mxCell id="PjZLMq5wqh1MerhEDPl6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PjZLMq5wqh1MerhEDPl6-14" target="PjZLMq5wqh1MerhEDPl6-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PjZLMq5wqh1MerhEDPl6-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-4510" y="2800" width="90" height="100" as="geometry" />
+        <mxCell id="PjZLMq5wqh1MerhEDPl6-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;member_no 1&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-4510" y="2800" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PjZLMq5wqh1MerhEDPl6-16" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Document&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;member_no: 1&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;code: topic&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;timestamp: 2024-01-02&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-4430" y="2625" width="320" height="165" as="geometry" />
@@ -3735,8 +3735,14 @@
         <mxCell id="PjZLMq5wqh1MerhEDPl6-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;gdb-recsys&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4570" y="2495" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PjZLMq5wqh1MerhEDPl6-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;가장 최근 document 응답&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PjZLMq5wqh1MerhEDPl6-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;가장 최근 document 리턴&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4630" y="2666" width="150" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PjZLMq5wqh1MerhEDPl6-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;member_no 2&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-4390" y="2800" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PjZLMq5wqh1MerhEDPl6-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Document&lt;br&gt;member_no: 1&lt;br&gt;code: topic&lt;br&gt;&lt;b&gt;timestamp: 2024-01-01&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-5310" y="1775" width="240" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
