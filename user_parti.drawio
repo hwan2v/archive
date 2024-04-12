@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T07:38:17.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Gcgj2ZotXQHbLZmdWVrF" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T07:39:27.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lmnZsbtrmsxeP1kZ60v3" version="23.1.4" type="github">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
     <mxGraphModel dx="12499" dy="2332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3598,25 +3598,28 @@
           <mxGeometry x="-5510" y="2127.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;recsys-person-0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4990" y="2019" width="200" height="55" as="geometry" />
+          <mxGeometry x="-4750" y="2019" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;recsys-person-1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4990" y="2074" width="200" height="55" as="geometry" />
+          <mxGeometry x="-4750" y="2074" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;recsys-person-2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4990" y="2129" width="200" height="55" as="geometry" />
+          <mxGeometry x="-4750" y="2129" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;recsys-person-3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4990" y="2184" width="200" height="55" as="geometry" />
+          <mxGeometry x="-4750" y="2184" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;recsys-person-9&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4990" y="2267" width="200" height="55" as="geometry" />
+          <mxGeometry x="-4750" y="2267" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;join&lt;br&gt;상품 정보 최신화&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5710" y="2084" width="150" height="84" as="geometry" />
         </mxCell>
         <mxCell id="hUsqTf7OQGVadwyqAbGp-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;index&lt;br&gt;분할 색인&lt;br&gt;member_no 기준으로 분할 색인&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5376" y="2062.5" width="180" height="93.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hUsqTf7OQGVadwyqAbGp-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;member_no: n&lt;br&gt;code: topic&lt;br&gt;timestamp: 2024-01-01&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-5110" y="1922.5" width="240" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
