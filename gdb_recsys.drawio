@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T03:51:43.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PIKMcu7lmn2vg1VqYimn" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T03:52:43.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ip2b7klCNmXbOAbDGLAY" version="24.4.10" type="github">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
     <mxGraphModel dx="10531" dy="-413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,12 @@
         </mxCell>
         <mxCell id="Ovc67wZVUR7TIE0coFnu-123" value="유사도&amp;nbsp;&lt;div&gt;측정&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-8365" y="3500" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ovc67wZVUR7TIE0coFnu-124" value="상품, 추천, 판매 데이터" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8620" y="3750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ovc67wZVUR7TIE0coFnu-125" value="리뷰, 맴버&amp;nbsp;&lt;div&gt;데이터&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8630" y="3560" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
