@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:21:57.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zB8zL0e5xfBhovSXQbHV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T06:26:45.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6pb__gpNDZBMXUjmXyZq" version="24.6.4" type="github">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
     <mxGraphModel dx="10531" dy="-413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -511,17 +511,28 @@
         <mxCell id="BnBufEomHl587MYSJlc1-5" value="개인 추천 비대상" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-8719.49" y="4930" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-14" target="BnBufEomHl587MYSJlc1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-14" target="BnBufEomHl587MYSJlc1-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-14" value="Elasticsearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-8284.739999999998" y="4677" width="100" height="90" as="geometry" />
+          <mxGeometry x="-8147.129999999998" y="4705" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-16" target="BnBufEomHl587MYSJlc1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-16" value="추천결과&amp;nbsp;&lt;div&gt;Cache&lt;div&gt;(in memory)&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-8519.490000000002" y="4631" width="100" height="90" as="geometry" />
+          <mxGeometry x="-8520.000000000002" y="4705" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-21" target="BnBufEomHl587MYSJlc1-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BnBufEomHl587MYSJlc1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-21" target="BnBufEomHl587MYSJlc1-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-8469" y="4960" />
+              <mxPoint x="-7864" y="4960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-21" target="BnBufEomHl587MYSJlc1-22">
           <mxGeometry relative="1" as="geometry" />
@@ -529,41 +540,26 @@
         <mxCell id="BnBufEomHl587MYSJlc1-21" value="캐시 조회" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-8529.49" y="4869" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-22" value="개인&amp;nbsp;&lt;div&gt;인덱스&lt;div&gt;조회&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-8294.74" y="4810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-23" value="리턴" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-8109.999999999999" y="4870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="BnBufEomHl587MYSJlc1-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-8234.49" y="4810" as="sourcePoint" />
-            <mxPoint x="-8991.49" y="4732" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-22" target="BnBufEomHl587MYSJlc1-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-8109.49" y="4839" />
-              <mxPoint x="-8109.49" y="4611" />
-              <mxPoint x="-8469.49" y="4611" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-22" target="BnBufEomHl587MYSJlc1-23">
+        <mxCell id="BnBufEomHl587MYSJlc1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-22" target="BnBufEomHl587MYSJlc1-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-22" value="개인&amp;nbsp;&lt;div&gt;인덱스&lt;div&gt;조회&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-8157.13" y="4870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-23" value="리턴" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-7924.249999999999" y="4869" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-29" value="캐시 없음" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-8366.49" y="4810" width="70" height="30" as="geometry" />
+          <mxGeometry x="-8368.99" y="4860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-30" value="캐시 있음" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-8365.49" y="4900" width="70" height="30" as="geometry" />
+          <mxGeometry x="-8368.99" y="4960" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-31" value="결과 캐싱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-8184.74" y="4620" width="70" height="30" as="geometry" />
+          <mxGeometry x="-8220" y="4720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-32" value="결과 리턴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-8099.489999999999" y="4817" width="70" height="30" as="geometry" />
+          <mxGeometry x="-8004.249999999999" y="4870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-41" target="BnBufEomHl587MYSJlc1-49">
           <mxGeometry relative="1" as="geometry">
@@ -591,7 +587,12 @@
           <mxGeometry x="-8533.740000000002" y="5130" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-49" target="BnBufEomHl587MYSJlc1-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-8484" y="5460" />
+              <mxPoint x="-7801" y="5460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-49" target="BnBufEomHl587MYSJlc1-50">
           <mxGeometry relative="1" as="geometry" />
@@ -599,11 +600,11 @@
         <mxCell id="BnBufEomHl587MYSJlc1-49" value="캐시 조회" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-8543.74" y="5368" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-50" value="개인&amp;nbsp;&lt;div&gt;인덱스&lt;div&gt;조회&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="BnBufEomHl587MYSJlc1-50" value="개인&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;인덱스&lt;/span&gt;&lt;div&gt;&lt;div&gt;조회&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-8308.99" y="5309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-51" value="리턴" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-8124.249999999999" y="5369" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7769.999999999999" y="5379" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="BnBufEomHl587MYSJlc1-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -620,9 +621,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-50" target="BnBufEomHl587MYSJlc1-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BnBufEomHl587MYSJlc1-55" value="캐시 없음" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-8380.74" y="5309" width="70" height="30" as="geometry" />
         </mxCell>
@@ -632,8 +630,14 @@
         <mxCell id="BnBufEomHl587MYSJlc1-57" value="결과 캐싱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-8198.99" y="5119" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BnBufEomHl587MYSJlc1-58" value="결과 리턴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-8113.739999999999" y="5316" width="70" height="30" as="geometry" />
+        <mxCell id="BnBufEomHl587MYSJlc1-59" value="&lt;div&gt;공통 인덱스&lt;div&gt;조회&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-8065.63" y="5308" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-63" value="추천 결과&lt;div&gt;캐시 저장&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-8359.380000000001" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBufEomHl587MYSJlc1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BnBufEomHl587MYSJlc1-63" target="BnBufEomHl587MYSJlc1-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
