@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T09:50:48.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6_ComVSqscLbQvat4TCT" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T09:54:12.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pfqTUC23Wwp8kpdlcd5a" version="24.6.4" type="github">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
     <mxGraphModel dx="11433" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -928,11 +928,11 @@
         <mxCell id="6Or3A_lmlhhT44vdFUFh-94" value="remote에 업로드" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-7824.760000000001" y="7105" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-96" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;member_no:&amp;nbsp; 222&lt;div&gt;products: [1, 2, 3, 4]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;member_no:&amp;nbsp; 333&lt;div&gt;products: [1, 2, 3, 4, 6, 7]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;member_no:&amp;nbsp; 444&lt;div&gt;products: [1, 2, 3, 4, 7]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-8615" y="7320" width="215" height="160" as="geometry" />
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-96" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;member_no:&amp;nbsp; 222&lt;div&gt;features: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; payment: 0.1&lt;/div&gt;&lt;div&gt;&amp;nbsp; visit_l2_game: 0.5&lt;/div&gt;&lt;div&gt;&amp;nbsp; play_time_l2: 0.1&lt;/div&gt;&lt;div&gt;&amp;nbsp; ....&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8784" y="7125" width="215" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-97" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;member_no:&amp;nbsp; 111&lt;div&gt;products: [1, 6, 7]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-8016.26" y="6765.5" width="141.5" height="103" as="geometry" />
+          <mxGeometry x="-8017.5" y="6900" width="141.5" height="103" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-98" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;111&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;[0 1 1 1 0 0 0 ....]&lt;/span&gt;&lt;div&gt;222&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;[1 1 1 1 0 0 0 ....]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;333 [1 1 1 1 0 1 1 ....]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;444&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;[1 1 1 1 0 0 1 ....]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-8434.999999999998" y="6660" width="157.13" height="90" as="geometry" />
@@ -1049,7 +1049,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-139" value="기본 추천&lt;div&gt;(유사도 기준)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-8014.760000000001" y="6868.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8014.760000000001" y="7010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-141" target="6Or3A_lmlhhT44vdFUFh-94">
           <mxGeometry relative="1" as="geometry" />
@@ -1068,6 +1068,12 @@
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-143" value="기타 추천&lt;div&gt;(특정 필드 기준)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-8014.760000000001" y="7270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-151" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1000 [0.2, 0.1, 0, 1, ...]&lt;div&gt;1001 [0.5, 1, 0, 0.8, ...]&lt;br&gt;&lt;/div&gt;&lt;div&gt;1002 [0.1, 1, 0, 0, ...]&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8608.25" y="6825" width="215" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-153" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;222 [0.1, 0.5, 0.1, ..]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8605.62" y="7120" width="215" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
