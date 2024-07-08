@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T09:45:38.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8IFd8X4i36QNG9oqk1r6" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T09:48:38.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a5ydA6Cpkbz1DH1K4sBp" version="24.6.4" type="github">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
     <mxGraphModel dx="10913" dy="-648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -907,17 +907,11 @@
         <mxCell id="6Or3A_lmlhhT44vdFUFh-76" value="벡터 저장" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-8380" y="6990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-80" target="6Or3A_lmlhhT44vdFUFh-82">
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-80" target="6Or3A_lmlhhT44vdFUFh-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-80" value="사용자별&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;벡터로&lt;/span&gt;&lt;div&gt;유사도 측정&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-8277.87" y="7105" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-82" target="6Or3A_lmlhhT44vdFUFh-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-82" value="사용자&amp;nbsp;&lt;div&gt;선호 상품 선별&lt;div&gt;(장르 or 토픽)&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-7841.120000000001" y="7040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-83" value="피처 생성" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-9150" y="6847" width="120" height="40" as="geometry" />
@@ -931,17 +925,11 @@
         <mxCell id="6Or3A_lmlhhT44vdFUFh-91" value="상품별 피처를&amp;nbsp;&lt;div&gt;취합하여&lt;div&gt;벡터로 변환&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-8540" y="6990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-93" target="6Or3A_lmlhhT44vdFUFh-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6Or3A_lmlhhT44vdFUFh-93" value="선별된 상품의&amp;nbsp;&lt;div&gt;피처를 계산하여&lt;div&gt;정렬&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-7684.490000000001" y="7040" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-94" value="remote에 업로드" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-7684.490000000001" y="6940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7690.000000000001" y="7105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-96" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;member_no:&amp;nbsp; 222&lt;div&gt;products: [1, 2, 3, 4]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;member_no:&amp;nbsp; 333&lt;div&gt;products: [1, 2, 3, 4, 6, 7]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;member_no:&amp;nbsp; 444&lt;div&gt;products: [1, 2, 3, 4, 7]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7892.5" y="7230" width="215" height="160" as="geometry" />
+          <mxGeometry x="-8110" y="7320" width="215" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6Or3A_lmlhhT44vdFUFh-97" value="&lt;div&gt;example)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;member_no:&amp;nbsp; 111&lt;div&gt;products: [1, 6, 7]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-7680.99" y="6847" width="141.5" height="103" as="geometry" />
@@ -1037,6 +1025,45 @@
             <mxPoint x="-8731.67" y="7230" as="sourcePoint" />
             <mxPoint x="-8731.67" y="6880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-136" target="6Or3A_lmlhhT44vdFUFh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-136" target="6Or3A_lmlhhT44vdFUFh-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-136" target="6Or3A_lmlhhT44vdFUFh-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-136" target="6Or3A_lmlhhT44vdFUFh-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-136" value="사용자&amp;nbsp;&lt;div&gt;선호 상품&lt;div&gt;후보군 추출&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-8077.880000000001" y="7105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-139" target="6Or3A_lmlhhT44vdFUFh-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-139" value="기본 추천&lt;div&gt;(유사도 기준)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-7880.000000000001" y="7014" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-141" target="6Or3A_lmlhhT44vdFUFh-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-141" value="태그 기준 추천&lt;div&gt;(특정 태그 상품)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-7880.000000000001" y="7105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-142" target="6Or3A_lmlhhT44vdFUFh-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-142" value="장르 기준 추천&lt;div&gt;(특정 장르 상품)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-7880.000000000001" y="7220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Or3A_lmlhhT44vdFUFh-143" target="6Or3A_lmlhhT44vdFUFh-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Or3A_lmlhhT44vdFUFh-143" value="기타 추천&lt;div&gt;(특정 필드 기준)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-7880.000000000001" y="7310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
