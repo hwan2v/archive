@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T04:22:24.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ywNHfZ4MCLAQiju4-0Da" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T04:22:50.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="e1muqRZPTafn8nIaigmE" version="24.6.5" type="github">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
     <mxGraphModel dx="11119" dy="-539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1186,14 +1186,14 @@
             <mxPoint x="-8100" y="7720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_X9QSBDn26cfGp0L1aM-4" value="tag_feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="h_X9QSBDn26cfGp0L1aM-4" value="tag_feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-8070" y="7950" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_X9QSBDn26cfGp0L1aM-8" target="h_X9QSBDn26cfGp0L1aM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-8" value="hive&lt;div&gt;&lt;br&gt;&lt;div&gt;tb_card&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-7940" y="7580" width="100" height="90" as="geometry" />
+          <mxGeometry x="-7945" y="7580" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_X9QSBDn26cfGp0L1aM-10" target="h_X9QSBDn26cfGp0L1aM-13">
           <mxGeometry relative="1" as="geometry">
@@ -1210,7 +1210,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-12" value="문서 추출" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-7863.75" y="7745" width="120" height="60" as="geometry" />
+          <mxGeometry x="-7875.25" y="7745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-13" value="Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-7344.26" y="7730" width="100" height="90" as="geometry" />
@@ -1247,7 +1247,7 @@
         <mxCell id="h_X9QSBDn26cfGp0L1aM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_X9QSBDn26cfGp0L1aM-23" target="h_X9QSBDn26cfGp0L1aM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h_X9QSBDn26cfGp0L1aM-23" value="태그 통계 및&amp;nbsp;&lt;div&gt;추천 태그 분류&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="h_X9QSBDn26cfGp0L1aM-23" value="태그 통계 및&amp;nbsp;&lt;div&gt;추천 태그 분류&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-7876" y="7950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h_X9QSBDn26cfGp0L1aM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_X9QSBDn26cfGp0L1aM-21" target="h_X9QSBDn26cfGp0L1aM-27">
@@ -1256,7 +1256,7 @@
             <mxPoint x="-7826" y="7950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_X9QSBDn26cfGp0L1aM-27" value="추천 아티클 분류" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="h_X9QSBDn26cfGp0L1aM-27" value="추천 아티클 분류" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-7876" y="7850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
