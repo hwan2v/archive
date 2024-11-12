@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="페이지-1" id="NXQ9NU0Bod8_7ZX_dJSs">
-    <mxGraphModel dx="11717" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11433" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4419,22 +4419,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-4" value="source data" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-8450" y="5770" width="370" height="150" as="geometry" />
+          <mxGeometry x="-8470" y="5800" width="410" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-1" value="&lt;div&gt;81plug&lt;/div&gt;(hive)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="bwi4iiEVgSB90yXicvcr-4">
-          <mxGeometry x="10" y="40" width="100" height="90" as="geometry" />
+          <mxGeometry x="30" y="40" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-2" value="&lt;div&gt;stove-store&lt;/div&gt;(mysq)l" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="bwi4iiEVgSB90yXicvcr-4">
-          <mxGeometry x="135" y="40" width="100" height="90" as="geometry" />
+          <mxGeometry x="155" y="40" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-3" value="&lt;div&gt;store, social&lt;/div&gt;(mongo)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="bwi4iiEVgSB90yXicvcr-4">
-          <mxGeometry x="260" y="40" width="100" height="90" as="geometry" />
+          <mxGeometry x="280" y="40" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-5" target="bwi4iiEVgSB90yXicvcr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-5" target="bwi4iiEVgSB90yXicvcr-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-8582" y="6307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-5" value="운영자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-8625" y="5990" width="35" height="60" as="geometry" />
+          <mxGeometry x="-8600" y="5990" width="35" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-7" target="bwi4iiEVgSB90yXicvcr-10">
           <mxGeometry relative="1" as="geometry" />
@@ -4540,6 +4547,29 @@
         </mxCell>
         <mxCell id="bwi4iiEVgSB90yXicvcr-42" value="검색/추천 색인" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-8380" y="6115" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-55" target="bwi4iiEVgSB90yXicvcr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-55" value="데추팀 서비스" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-7940" y="6166" width="170" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-59" value="스토브" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-7916" y="6446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-59" target="bwi4iiEVgSB90yXicvcr-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-8620" y="6476" />
+              <mxPoint x="-8620" y="5885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-62" value="QMS&lt;div&gt;(검색/추천 관리 도구)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-8540" y="6277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwi4iiEVgSB90yXicvcr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bwi4iiEVgSB90yXicvcr-62" target="bwi4iiEVgSB90yXicvcr-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
