@@ -4623,16 +4623,16 @@
           <mxGeometry x="20" y="253.5" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-11" value="object-storage&lt;div&gt;(ceph)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-6715" y="6546" width="100" height="90" as="geometry" />
+          <mxGeometry x="-6715" y="6580" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-12" value="featuredb&lt;div&gt;(mongo)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-6585" y="6546" width="100" height="90" as="geometry" />
+          <mxGeometry x="-6585" y="6580" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLgXbE_h6IZOVGalQsxw-15" target="SLgXbE_h6IZOVGalQsxw-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-15" value="storage" style="swimlane;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-6735" y="6506" width="270" height="150" as="geometry" />
+          <mxGeometry x="-6735" y="6540" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-17" value="리뷰, 웹로그&lt;div&gt;런처로그,&lt;/div&gt;&lt;div&gt;스토어 상품,&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="-6790" y="6290" width="100" height="80" as="geometry" />
@@ -4644,7 +4644,7 @@
           <mxGeometry x="-6440" y="6340.5" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-21" value="상품, 피처,&amp;nbsp;&lt;div&gt;구매 이력 등&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="-6380" y="6506" width="100" height="80" as="geometry" />
+          <mxGeometry x="-6370" y="6530" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLgXbE_h6IZOVGalQsxw-22" target="SLgXbE_h6IZOVGalQsxw-24">
           <mxGeometry relative="1" as="geometry" />
@@ -4661,7 +4661,7 @@
         <mxCell id="SLgXbE_h6IZOVGalQsxw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLgXbE_h6IZOVGalQsxw-26" target="SLgXbE_h6IZOVGalQsxw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLgXbE_h6IZOVGalQsxw-26" value="milvusdb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="SLgXbE_h6IZOVGalQsxw-26" value="milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-6260" y="6189.5" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SLgXbE_h6IZOVGalQsxw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLgXbE_h6IZOVGalQsxw-30" target="SLgXbE_h6IZOVGalQsxw-31">
