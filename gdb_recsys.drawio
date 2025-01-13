@@ -1369,7 +1369,7 @@
         <mxCell id="SKCmtNlNcVwRmWZMF_ER-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-16" target="SKCmtNlNcVwRmWZMF_ER-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKCmtNlNcVwRmWZMF_ER-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-16" target="SKCmtNlNcVwRmWZMF_ER-34">
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-16" target="SKCmtNlNcVwRmWZMF_ER-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKCmtNlNcVwRmWZMF_ER-16" value="DB 검색" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1403,7 +1403,37 @@
           <mxGeometry x="-6382" y="3263" width="84" height="84" as="geometry" />
         </mxCell>
         <mxCell id="SKCmtNlNcVwRmWZMF_ER-34" value="BISKIT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-6545" y="2870" width="70" height="80" as="geometry" />
+          <mxGeometry x="-6545" y="2862.5" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-36" target="SKCmtNlNcVwRmWZMF_ER-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-36" value="필터, 가공, 정제, 분할" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6910" y="3274.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-38" target="SKCmtNlNcVwRmWZMF_ER-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-38" value="mountain&lt;div&gt;card&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-7069" y="3262" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-41" target="SKCmtNlNcVwRmWZMF_ER-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-41" value="BISKIT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-7070" y="3360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-42" target="SKCmtNlNcVwRmWZMF_ER-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-42" value="스키마, 샘플 쿼리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6910" y="3370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKCmtNlNcVwRmWZMF_ER-43" target="SKCmtNlNcVwRmWZMF_ER-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKCmtNlNcVwRmWZMF_ER-43" value="embedding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-6736" y="3274.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
