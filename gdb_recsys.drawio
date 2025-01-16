@@ -1477,7 +1477,7 @@
         <mxCell id="ySjHfMhhysdQ87gARD-G-9" value="Mysql&lt;br&gt;(up_indie)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-6820" y="4639" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-10" value="Remote&lt;div&gt;DB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-10" value="featuredb&lt;div&gt;(store_user_feature, product_feature)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-6580" y="4759" width="690" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ySjHfMhhysdQ87gARD-G-11" value="데이터 가공&lt;div&gt;피처 생성&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -1581,7 +1581,7 @@
         <mxCell id="ySjHfMhhysdQ87gARD-G-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ySjHfMhhysdQ87gARD-G-41" target="ySjHfMhhysdQ87gARD-G-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-41" value="색인" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-41" value="색인&lt;br&gt;(1 주일)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-6016.620000000001" y="4449" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ySjHfMhhysdQ87gARD-G-42" value="정제" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
