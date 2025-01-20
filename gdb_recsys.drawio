@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
-    <mxGraphModel dx="11290" dy="-449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11517" dy="-329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1480,13 +1480,13 @@
         <mxCell id="ySjHfMhhysdQ87gARD-G-10" value="featuredb&lt;div&gt;(store_user_feature, product_feature)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-6580" y="4759" width="690" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-11" value="데이터 가공&lt;div&gt;피처 생성&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-11" value="데이터 가공&lt;div&gt;피처 생성&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-6560" y="4579" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-12" value="OpenAI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-12" value="OpenAI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-6615" y="4349" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-13" value="Milvus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-13" value="Milvus" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-6495" y="4349" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ySjHfMhhysdQ87gARD-G-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ySjHfMhhysdQ87gARD-G-11" target="ySjHfMhhysdQ87gARD-G-12" edge="1">
@@ -1552,7 +1552,7 @@
         <mxCell id="ySjHfMhhysdQ87gARD-G-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ySjHfMhhysdQ87gARD-G-30" target="ySjHfMhhysdQ87gARD-G-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-30" value="추천 유형별&lt;div&gt;알고리즘 적용&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-30" value="추천 유형별&lt;div&gt;알고리즘 적용&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-6350" y="4449" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ySjHfMhhysdQ87gARD-G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ySjHfMhhysdQ87gARD-G-32" target="ySjHfMhhysdQ87gARD-G-33" edge="1">
