@@ -1584,7 +1584,7 @@
         <mxCell id="ySjHfMhhysdQ87gARD-G-41" value="색인&lt;br&gt;(1 주일)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-6016.620000000001" y="4449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySjHfMhhysdQ87gARD-G-42" value="정제" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ySjHfMhhysdQ87gARD-G-42" value="가공" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-6570" y="4279" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ySjHfMhhysdQ87gARD-G-43" value="추천" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
