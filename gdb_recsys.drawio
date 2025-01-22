@@ -1730,18 +1730,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-1" value="QMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-6385.63" y="6445" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6445" y="6435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MjBjoqz3YRuSNVDAsG_J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MjBjoqz3YRuSNVDAsG_J-3" target="MjBjoqz3YRuSNVDAsG_J-6">
+        <mxCell id="MjBjoqz3YRuSNVDAsG_J-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MjBjoqz3YRuSNVDAsG_J-3" target="MjBjoqz3YRuSNVDAsG_J-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5900" y="6390" />
+              <mxPoint x="-5910" y="6390" />
               <mxPoint x="-6036" y="6390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-3" value="Mysql&lt;br&gt;(up_indie)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-5950" y="6430" width="100" height="90" as="geometry" />
+          <mxGeometry x="-5960" y="6430" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MjBjoqz3YRuSNVDAsG_J-4" target="MjBjoqz3YRuSNVDAsG_J-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1761,12 +1761,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-6170" y="6540" />
-              <mxPoint x="-6326" y="6540" />
+              <mxPoint x="-6385" y="6540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-5" value="Mongo&lt;div&gt;(qms)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-6220" y="6430" width="100" height="90" as="geometry" />
+          <mxGeometry x="-6218.75" y="6430" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MjBjoqz3YRuSNVDAsG_J-6" target="MjBjoqz3YRuSNVDAsG_J-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1819,6 +1819,15 @@
         </mxCell>
         <mxCell id="MjBjoqz3YRuSNVDAsG_J-35" value="&lt;div&gt;추천 API 선택&amp;nbsp;&lt;/div&gt;&lt;div&gt;및&lt;/div&gt;전시 컴포넌트&amp;nbsp;&lt;div&gt;노출 제어&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5660" y="6402.5" width="120" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MjBjoqz3YRuSNVDAsG_J-36" value="상품 전시 제어&lt;div&gt;정보 저장&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6350" y="6422.5" width="156.26" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MjBjoqz3YRuSNVDAsG_J-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.281;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MjBjoqz3YRuSNVDAsG_J-6" target="MjBjoqz3YRuSNVDAsG_J-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MjBjoqz3YRuSNVDAsG_J-39" value="&lt;div&gt;상품 등록/관리&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5866" y="6426.25" width="120" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
