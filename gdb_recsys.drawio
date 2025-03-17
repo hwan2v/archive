@@ -1945,11 +1945,26 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;모델 실험&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;평가/검증&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5670" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8dsBsdrfZQtCjifgeDB-4" target="b8dsBsdrfZQtCjifgeDB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-4" value="&lt;div&gt;소스코드&lt;/div&gt;&lt;div&gt;푸시/머지&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5490" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="&lt;div&gt;소스코드&lt;/div&gt;&lt;div&gt;푸시/머지&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8dsBsdrfZQtCjifgeDB-6" target="b8dsBsdrfZQtCjifgeDB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;pipeline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5313.86" y="2923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8dsBsdrfZQtCjifgeDB-8" target="b8dsBsdrfZQtCjifgeDB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-8" value="image 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5313.86" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-10" value="image&lt;div&gt;registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5480" y="3030" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
