@@ -1961,7 +1961,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;ci/cd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5313.86" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5320.759999999999" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-8" value="image 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5150" y="2923" width="120" height="60" as="geometry" />
