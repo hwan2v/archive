@@ -2070,7 +2070,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-49" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-5850.000000000001" y="3109" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5830" y="3109" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-50" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;&amp;nbsp;sk-idc&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5660" y="3104" width="600" height="90" as="geometry" />
@@ -2082,7 +2082,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-53" value="S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-5850.000000000001" y="3367" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5830" y="3367" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-1" target="zcoJHXFJSiELS2ZEF6gJ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2172,10 +2172,10 @@
           <mxGeometry x="-5200" y="3382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-32" value="sk-idc&lt;div&gt;image registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-5040.000000000001" y="3114" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5030" y="3114" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-35" value="aws&lt;div&gt;image registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-5040.000000000001" y="3372" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5030" y="3372" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-21" target="zcoJHXFJSiELS2ZEF6gJ-32">
           <mxGeometry relative="1" as="geometry">
@@ -2195,7 +2195,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-40" value="airflow &amp;amp;&lt;div&gt;kubeflow&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-5833.74" y="3640" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5833.74" y="3620" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-43" value="gitlab pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-5660" y="3055" width="120" height="40" as="geometry" />
@@ -2204,19 +2204,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-45" value="Dag git repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5990" y="3640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5990" y="3620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-46" target="zcoJHXFJSiELS2ZEF6gJ-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-46" value="Dag 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5733.74" y="3740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-47" value="Dag 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5733.74" y="3825" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5733.74" y="3840" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-48" value="Dag 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5733.74" y="3910" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5733.74" y="3940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-55" target="zcoJHXFJSiELS2ZEF6gJ-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-55" value="sk-idc&lt;div&gt;image registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-5620.000000000001" y="3625" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5710.000000000001" y="3610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-60" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5590.000000000001" y="3610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-63" target="zcoJHXFJSiELS2ZEF6gJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-63" value="데이터 준비" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5590" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-65" target="zcoJHXFJSiELS2ZEF6gJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-65" value="모델 학습" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5440" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-67" target="zcoJHXFJSiELS2ZEF6gJ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-67" value="모델 평가/검증" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5290" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-68" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5147.02" y="3740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
