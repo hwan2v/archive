@@ -2096,9 +2096,6 @@
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-2" value="모델 학습" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5480" y="3124" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-3" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5250.12" y="2728" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5200" y="3154" as="targetPoint" />
