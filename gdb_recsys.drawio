@@ -2486,16 +2486,16 @@
         <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7nPkgVMDu0ZFB-rMF9Q-52" target="H7nPkgVMDu0ZFB-rMF9Q-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-52" value="L2 구매이력이 없는&lt;div&gt;사용자 추출&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-52" value="L2 구매이력이 없는&lt;div&gt;사용자 추출&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-4470" y="4885" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-57" value="A/B 타입&amp;nbsp;&lt;div&gt;사용자 갱신&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-57" value="A/B 타입&amp;nbsp;&lt;div&gt;사용자 파일&lt;/div&gt;&lt;div&gt;업데이트&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-4230.41" y="4995" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7nPkgVMDu0ZFB-rMF9Q-58" target="H7nPkgVMDu0ZFB-rMF9Q-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-58" value="L2 구매이력이 없는&lt;div&gt;L1 사용자 추출&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-58" value="L2 구매이력이 없는&lt;div&gt;L1 사용자 추출&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-4470" y="5119" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7nPkgVMDu0ZFB-rMF9Q-60" target="H7nPkgVMDu0ZFB-rMF9Q-52">
@@ -2508,7 +2508,7 @@
           <mxGeometry x="-4500" y="4980" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H7nPkgVMDu0ZFB-rMF9Q-65" value="Elasticsearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-3929.9999999999995" y="4840" width="100" height="90" as="geometry" />
+          <mxGeometry x="-4029.9999999999995" y="5280" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
