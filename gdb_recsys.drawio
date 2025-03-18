@@ -1966,7 +1966,7 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-6" target="b8dsBsdrfZQtCjifgeDB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;pipeline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;pipeline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-5267.0199999999995" y="2474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-8" value="image 생성" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2027,7 +2027,7 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-23" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5260.12" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8dsBsdrfZQtCjifgeDB-27" value="model&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;registry&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(object storage)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-27" value="model&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;registry&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(object storage)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-5250" y="2815.5" width="99.88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-29" target="b8dsBsdrfZQtCjifgeDB-37" edge="1">
@@ -2036,7 +2036,7 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-29" value="서빙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5096.26" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8dsBsdrfZQtCjifgeDB-31" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-31" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-5608.13" y="2816" width="103.74" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-37" target="b8dsBsdrfZQtCjifgeDB-16" edge="1">
@@ -2225,7 +2225,7 @@
           <mxGeometry x="-5710" y="3610" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-60" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-5520" y="3610" width="100" height="80" as="geometry" />
+          <mxGeometry x="-5580" y="3610" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-63" target="zcoJHXFJSiELS2ZEF6gJ-65">
           <mxGeometry relative="1" as="geometry" />
@@ -2247,6 +2247,12 @@
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-68" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5147.02" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-82" value="model&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;registry&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(object storage)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5131.95" y="3610" width="99.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-84" value="모니터링 도구&lt;div&gt;(grafana)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-5280.000000000001" y="3620" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
