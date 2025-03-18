@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b8dsBsdrfZQtCjifgeDB-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5528.86" y="2908" width="518.86" height="92" as="geometry" />
+          <mxGeometry x="-5475.12" y="2459" width="518.86" height="92" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5690" y="3150" width="680" height="90" as="geometry" />
+          <mxGeometry x="-5636.26" y="2701" width="680" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SKCmtNlNcVwRmWZMF_ER-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-6580" y="3250" width="300" height="110" as="geometry" />
@@ -1943,52 +1943,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-5796.57" y="2923" width="30" height="60" as="geometry" />
+          <mxGeometry x="-5742.83" y="2474" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b8dsBsdrfZQtCjifgeDB-2" target="b8dsBsdrfZQtCjifgeDB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;모델 실험&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;평가/검증&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5681.58" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5627.84" y="2474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-4" target="b8dsBsdrfZQtCjifgeDB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-4" value="&lt;div&gt;ML git repo&lt;/div&gt;&lt;div&gt;코드 푸시/머지&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5490" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5436.26" y="2474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-6" target="b8dsBsdrfZQtCjifgeDB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;pipeline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5320.759999999999" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5267.0199999999995" y="2474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-8" value="image 생성" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5150" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5096.26" y="2474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b8dsBsdrfZQtCjifgeDB-10" target="b8dsBsdrfZQtCjifgeDB-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-10" value="image&lt;div&gt;registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-5410" y="3027.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5356.26" y="2578.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-13" target="b8dsBsdrfZQtCjifgeDB-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-13" value="airflow &amp;amp;&lt;div&gt;kubeflow&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-5820" y="3040" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5766.26" y="2591" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-14" target="b8dsBsdrfZQtCjifgeDB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-14" value="Dag git repo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5986.26" y="3040" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5932.52" y="2591" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-16" target="b8dsBsdrfZQtCjifgeDB-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-16" value="trigger" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-5830" y="3157" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5776.26" y="2708" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-19" target="b8dsBsdrfZQtCjifgeDB-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1997,18 +1997,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-19" value="데이터 엔지니어링" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5670" y="3167" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5616.26" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-21" target="b8dsBsdrfZQtCjifgeDB-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b8dsBsdrfZQtCjifgeDB-21" target="b8dsBsdrfZQtCjifgeDB-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5430" y="3261.999999999999" as="targetPoint" />
+            <mxPoint x="-5376.26" y="2812.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-21" value="모델 엔지니어링" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5490" y="3167" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5436.26" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-23" target="b8dsBsdrfZQtCjifgeDB-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2017,41 +2017,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-23" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5313.86" y="3167" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5260.12" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-27" target="b8dsBsdrfZQtCjifgeDB-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-27" value="model&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;registry&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(object storage)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-5313.860000000001" y="3265" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5260.120000000001" y="2816" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-29" target="b8dsBsdrfZQtCjifgeDB-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-29" value="서빙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5150" y="3167" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5096.26" y="2718" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-31" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-5670.000000000001" y="3265" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5616.260000000001" y="2816" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-37" target="b8dsBsdrfZQtCjifgeDB-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5090" y="3380" />
-              <mxPoint x="-5770" y="3380" />
+              <mxPoint x="-5036.26" y="2931" />
+              <mxPoint x="-5716.26" y="2931" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-37" value="모니터링 도구&lt;div&gt;(grafana)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-5140" y="3274.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5086.26" y="2825.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-39" value="모델 메타 스토어 및 관리 도구" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-5480" y="3274.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="-5426.26" y="2825.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b8dsBsdrfZQtCjifgeDB-8" target="b8dsBsdrfZQtCjifgeDB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5090" y="3068" />
+              <mxPoint x="-5036.26" y="2619" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2092,7 +2092,7 @@
           <mxGeometry x="-5496.26" y="3479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-3" value="모델 배포" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5303.86" y="3177" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5250.12" y="2728" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-4">
           <mxGeometry relative="1" as="geometry">
@@ -2185,6 +2185,12 @@
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-40" value="airflow &amp;amp;&lt;div&gt;kubeflow&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-5856.26" y="3870" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-42" value="local/dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5650" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-43" value="gitlab pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5676.26" y="3410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
