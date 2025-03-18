@@ -1960,7 +1960,7 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-6" target="b8dsBsdrfZQtCjifgeDB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;ci/cd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b8dsBsdrfZQtCjifgeDB-6" value="gitlab&lt;div&gt;pipeline&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5320.759999999999" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-8" value="image 생성" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2169,10 +2169,10 @@
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-31" value="이미지 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5210" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-32" value="sk-idc&lt;div&gt;registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-32" value="sk-idc&lt;div&gt;image registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-5050.000000000001" y="3570" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-35" value="aws&lt;div&gt;registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-35" value="aws&lt;div&gt;image registry&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-5050.000000000001" y="3810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-21" target="zcoJHXFJSiELS2ZEF6gJ-32">
