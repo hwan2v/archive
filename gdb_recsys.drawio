@@ -8,7 +8,7 @@
           <mxGeometry x="-5623.19" y="3900" width="760" height="242" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="-5866" y="3347" width="966" height="131" as="geometry" />
+          <mxGeometry x="-5850" y="3347" width="950" height="131" as="geometry" />
         </mxCell>
         <mxCell id="b8dsBsdrfZQtCjifgeDB-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5475.12" y="2459" width="518.86" height="92" as="geometry" />
@@ -2649,6 +2649,24 @@
             <mxPoint x="-4910" y="2570" as="sourcePoint" />
             <mxPoint x="-5950" y="2575" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-3" target="b8dsBsdrfZQtCjifgeDB-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-3" value="&lt;div&gt;ML project A&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5986.26" y="3119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-4" target="zcoJHXFJSiELS2ZEF6gJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-4" value="&lt;div&gt;ML project B&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5986.26" y="3239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-7" target="zcoJHXFJSiELS2ZEF6gJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-7" value="&lt;div&gt;ML project C&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5986.26" y="3382.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
