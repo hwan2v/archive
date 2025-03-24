@@ -2051,8 +2051,8 @@
         <mxCell id="b8dsBsdrfZQtCjifgeDB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b8dsBsdrfZQtCjifgeDB-37" target="b8dsBsdrfZQtCjifgeDB-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5036.26" y="2931" />
-              <mxPoint x="-5716.26" y="2931" />
+              <mxPoint x="-5036" y="2910" />
+              <mxPoint x="-5716" y="2910" />
             </Array>
           </mxGeometry>
         </mxCell>
