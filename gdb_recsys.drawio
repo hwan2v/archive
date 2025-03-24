@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="페이지-1" id="Xo60WXhOqq1Zgk5UR2Bl">
-    <mxGraphModel dx="11119" dy="2968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11145" dy="3063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2236,7 +2236,7 @@
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-60" target="zcoJHXFJSiELS2ZEF6gJ-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-60" value="피처 스토어&lt;div&gt;(Feast)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-60" value="피처 스토어" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-5580" y="3580" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-63" target="zcoJHXFJSiELS2ZEF6gJ-65" edge="1">
@@ -2645,28 +2645,28 @@
         <mxCell id="cMDpTdSZL4jCWkH4zywT-24" value="구매 정보 갱신" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-4663.189999999999" y="5995" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-4910" y="2570" as="sourcePoint" />
             <mxPoint x="-5950" y="2575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-3" target="b8dsBsdrfZQtCjifgeDB-50">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-3" target="b8dsBsdrfZQtCjifgeDB-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-3" value="&lt;div&gt;ML project A&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-3" value="&lt;div&gt;ML project A&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5986.26" y="3119" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-4" target="zcoJHXFJSiELS2ZEF6gJ-12">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-4" target="zcoJHXFJSiELS2ZEF6gJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-4" value="&lt;div&gt;ML project B&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-4" value="&lt;div&gt;ML project B&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5986.26" y="3239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-7" target="zcoJHXFJSiELS2ZEF6gJ-26">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U_QAQ8mKeRxE8eM3wx0j-7" target="zcoJHXFJSiELS2ZEF6gJ-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-7" value="&lt;div&gt;ML project C&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U_QAQ8mKeRxE8eM3wx0j-7" value="&lt;div&gt;ML project C&lt;br&gt;git&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5986.26" y="3382.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
