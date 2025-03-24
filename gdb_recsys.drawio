@@ -2320,7 +2320,7 @@
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-101" value="오프라인 서빙&lt;div&gt;(배치)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5000" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-104" value="모델 메타 스토어 및 관리 도구" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="zcoJHXFJSiELS2ZEF6gJ-104" value="모델 메타 스토어 및 관리 도구&lt;div&gt;(MLflow)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-5430" y="3590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcoJHXFJSiELS2ZEF6gJ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zcoJHXFJSiELS2ZEF6gJ-107" target="zcoJHXFJSiELS2ZEF6gJ-108" edge="1">
