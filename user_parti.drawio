@@ -4819,7 +4819,7 @@
           <mxGeometry x="-6100" y="3880" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5utVGQQY5dS7ckRstY5r-4" value="op-script" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5950" y="3640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5900" y="3650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5utVGQQY5dS7ckRstY5r-5" value="Airflow" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-6375" y="3590" width="120" height="60" as="geometry" />
@@ -4836,11 +4836,26 @@
         <mxCell id="5utVGQQY5dS7ckRstY5r-8" value="store_recsys-init_cache_b_type_hourly&lt;div&gt;(B type 대상 제거)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-6430" y="3842.5" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="5utVGQQY5dS7ckRstY5r-14" value="Airflow" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="4040" width="120" height="60" as="geometry" />
+        <mxCell id="5utVGQQY5dS7ckRstY5r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5utVGQQY5dS7ckRstY5r-15" target="5utVGQQY5dS7ckRstY5r-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5utVGQQY5dS7ckRstY5r-15" value="object-stoage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-6100" y="3747.5" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5utVGQQY5dS7ckRstY5r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5utVGQQY5dS7ckRstY5r-17" target="5utVGQQY5dS7ckRstY5r-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5utVGQQY5dS7ckRstY5r-17" value="promotaion_recsys.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-5930" y="3762.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5utVGQQY5dS7ckRstY5r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5utVGQQY5dS7ckRstY5r-19" target="5utVGQQY5dS7ckRstY5r-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5utVGQQY5dS7ckRstY5r-19" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5700" y="3747.5" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5utVGQQY5dS7ckRstY5r-21" value="gdb-recsys API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5710" y="3650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
