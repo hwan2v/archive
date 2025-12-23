@@ -3181,10 +3181,10 @@
         <mxCell id="4yVRY8F37y2ded4b-U1v-43" parent="1" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" value="product:  &#xa;feature/silver/product/playtime/dt=yyyymmdd/window=1&#xa;feature/silver/product/spike_sale/dt=yyyymmdd/window=1&#xa;&#xa;member:&#xa;feature/silver/member/playtime/dt=yyyymmdd/window=1&#xa;feature/silver/member/purchase_count/dt=yyyymmdd/window=1&#xa;&#xa;&#xa;" vertex="1">
           <mxGeometry height="100" width="266.6" x="-4555.420000000001" y="-78.94000000000005" as="geometry" />
         </mxCell>
-        <mxCell id="4yVRY8F37y2ded4b-U1v-45" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="feature/gold/product/&lt;div&gt;recsys/latest.parquet&lt;/div&gt;" vertex="1">
+        <mxCell id="4yVRY8F37y2ded4b-U1v-45" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;div&gt;feature&lt;/div&gt;feature/gold/product/&lt;div&gt;recsys/latest.parquet&lt;/div&gt;" vertex="1">
           <mxGeometry height="78.94" width="130.41" x="-4229.23" y="-148.41000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="4yVRY8F37y2ded4b-U1v-47" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="feature/gold/member/&lt;div&gt;recsys/latest.parquet&lt;/div&gt;" vertex="1">
+        <mxCell id="4yVRY8F37y2ded4b-U1v-47" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;div&gt;feature&lt;/div&gt;feature/gold/member/&lt;div&gt;recsys/latest.parquet&lt;/div&gt;" vertex="1">
           <mxGeometry height="78.94" width="130.41" x="-4229.23" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="4yVRY8F37y2ded4b-U1v-49" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="product.json&lt;div&gt;(L2 게임 상품 정보)&lt;/div&gt;" vertex="1">
